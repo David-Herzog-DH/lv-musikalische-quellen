@@ -1,4 +1,4 @@
-# Willkommen im Wiki des .github repository der Lehrveranstaltung **Musikalische Quellen in der digitalen Welt**.
+# Willkommen im .github repository der Lehrveranstaltung **Musikalische Quellen in der digitalen Welt**.
 
 Diese Lehrveranstaltung wird von Frau Prof. [Andrea Lindmayr-Brandl](https://www.plus.ac.at/kunst-musik-und-tanzwissenschaft/abteilung-musik-und-tanzwissenschaft/die-abteilung/personen/wissenschaftliches-personal/andrea-lindmayr-brandl-univ-prof-dr-mag-art/) geleitet.
 
