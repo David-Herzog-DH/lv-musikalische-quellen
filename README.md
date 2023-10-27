@@ -14,4 +14,5 @@ Die Einführung zur Verwendung dieses Repositories findet in der VO am 31.10.202
 Bitte zögern Sie nicht einen **Issue** anzulegen, wenn Ihnen ein Fehler auffällt oder etwaige Korrekturen nötig sind.
 
 Sie müssen als Colabourator für dieses Projekt registriert sein, um Inhalte einchecken zu können.
+Bitte melden Sie sich am 31.10., beim Vortragenden, falls Sie noch nicht registriert sind, oder senden Sie einen Request.
 
