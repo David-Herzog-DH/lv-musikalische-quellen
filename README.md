@@ -2,7 +2,7 @@
 
 Diese Lehrveranstaltung wird von Frau Prof. [Andrea Lindmayr-Brandl](https://www.plus.ac.at/kunst-musik-und-tanzwissenschaft/abteilung-musik-und-tanzwissenschaft/die-abteilung/personen/wissenschaftliches-personal/andrea-lindmayr-brandl-univ-prof-dr-mag-art/) geleitet.
 
->>FÜGEN SIE HIER DEN UNI-LINK ZU DIESER VERANSTALTUNG EIN<<
+>>FÜGEN SIE HIER DEN UNI-LINK ZU DIESER VERANSTALTUNG EIN
 
 Die [Stiftung Mozarteum](https://www.mozarteum.at) unterstützt diese Lehrveranstaltung.
 Dieses Repository enthält die für die Übungen nötigen Dateien.
