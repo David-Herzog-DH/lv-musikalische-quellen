@@ -99,6 +99,7 @@ Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinde
 Visual Studio Code ist ein Code-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Es enthält Unterstützung für Debugging, eingebetteten Git-Control, Syntaxhervorhebung, intelligente Code-Vervollständigung, Snippets und Code-Refactoring. Es ist kostenlos und Open Source.
 Link: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
+Link für mögliche Erweiterung: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
 #### 3.6 Installation von Git GUI
 Als Alternative Visual Studio Code kann auch Git GUI verwenden.
