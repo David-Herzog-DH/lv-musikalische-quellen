@@ -93,7 +93,7 @@ Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingebe
 Hinweis: Der Benutzername und die Emailadresse müssen mit Ihrem GitHub Account übereinstimmen. 
 Überprüfen Sie dies in den Einstellungen lokal mit:
 ``git config user.name`` und ``git config user.email``
-Falls diese falsch gesetzt sind, ändern die dies durch Verwendung der folgenden Befehle:
+Falls diese falsch gesetzt sind können Sie dies durch Verwendung der folgenden Befehle ändern:
 ``git config --global user.name "Ihr Name"``
 ``git config --global user.email "Ihre Emailadresse"``
 
