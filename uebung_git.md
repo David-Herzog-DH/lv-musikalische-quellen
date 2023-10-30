@@ -177,7 +177,7 @@ Verwenden Sie diese Version nur für die Übung und nicht für Ihre eigene Arbei
 Dies ist die offizielle Seite von MuseScore, auf der Sie die neueste Version von MuseScore herunterladen können.  
 Link: [https://musescore.org/de/download](https://musescore.org/de/download) 
 
-Es empfiehlt den aktuellen Stand der Arbeit immer wieder zu sichern, um Datenverlust zu vermeiden. Werden Sie eins mit der Tastenkombination ``Strg + S``.
+Es empfiehlt sich den aktuellen Stand der Arbeit immer wieder zu sichern, um Datenverlust zu vermeiden. Werden Sie eins mit der Tastenkombination ``Strg + S``.
 
 -- David Herzog 2023-10-30 12:33:00
 
