@@ -39,7 +39,7 @@ Jedes musikalische Merkmal und jedes Notationszeichen ist individuell im Code do
 Es ist ein leistungsstarkes Werkzeug, in dem eine Fülle von Informationen gespeichert werden kann. Diese Informationen umfassen Variantenlesungen und redaktionelle Markierungen, Anmerkungen und Kommentare, Metadaten und die Verknüpfung zu anderen Datenquellen. Übersetzt aus Quelle: [https://dme.mozarteum.at/movi/](https://dme.mozarteum.at/movi/en)
 
 
-## Ablauf der Vorlesung (30.10.2023) und Übung (07.11.2023)
+## Ablauf der Vorlesung (31.10.2023) und Übung (07.11.2023)
 
 Das Repository wird auf GitHub gehostet unter folgendem Link::
 ### 1. Link auf git repository
