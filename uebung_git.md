@@ -41,7 +41,7 @@ Es ist ein leistungsstarkes Werkzeug, in dem eine Fülle von Informationen gespe
 
 ## Ablauf der Vorlesung (30.10.2023) und Übung (07.11.2023)
 
-Das Repository wird auf GitHub gehostet unter folgenden link:
+Das Repository wird auf GitHub gehostet unter folgendem Link::
 ### 1. Link auf git repository
 [https://github.com/David-Herzog-DH/lv-musikalische-quellen](https://github.com/David-Herzog-DH/lv-musikalische-quellen)
 
