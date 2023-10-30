@@ -39,7 +39,7 @@ Jedes musikalische Merkmal und jedes Notationszeichen ist individuell im Code do
 Es ist ein leistungsstarkes Werkzeug, in dem eine Fülle von Informationen gespeichert werden kann. Diese Informationen umfassen Variantenlesungen und redaktionelle Markierungen, Anmerkungen und Kommentare, Metadaten und die Verknüpfung zu anderen Datenquellen. Übersetzt aus Quelle: [https://dme.mozarteum.at/movi/](https://dme.mozarteum.at/movi/en)
 
 
-## Ablauf der Vorlesung und Vorbereitung für die Übung
+## Ablauf der Vorlesung (30.10.2023) und Übung (07.11.2023)
 
 Das Repository wird auf GitHub gehostet unter folgenden link:
 ### 1. Link auf git repository
@@ -153,7 +153,20 @@ Wir werden im Laufe der Übung Änderungen von Ihrem lokalen Repository zum GitH
 #### 4.8. Konflikte und Mergen
 Wir werden Mergen von Änderungen gemeinsam üben.
 
+#### 4.9. Erzeugen eines branches für die Gruppenarbeit
+Wir werden gemeinsam einen branch für die Gruppenarbeit erzeugen.
+
 ### 5. Installation von MuseScore (Vorabversion mit MEI Unterstützung)
 
+Diese Vorabversion enthält die Unterstützung für MEI-Dateien.
+Link: [https://ftp.osuosl.org/pub/musescore-nightlies/windows/4x/nightly/MuseScoreNightly-latest-master-x86_64-portable.exe](https://ftp.osuosl.org/pub/musescore-nightlies/windows/4x/nightly/MuseScoreNightly-latest-master-x86_64-portable.exe)
+
+Achtung: Die oben angegebene Version ist eine Vorabversion und kann Fehler enthalten.
+Verwenden Sie diese Version nur für die Übung und nicht für Ihre eigene Arbeit.
+
+Dies ist die offizielle Seite von MuseScore, auf der Sie die neueste Version von MuseScore herunterladen können.  
+Link: [https://musescore.org/de/download](https://musescore.org/de/download) 
+
+Es empfiehlt den aktuellen Stand der Arbeit immer wieder zu sichern, um Datenverlust zu vermeiden. Werden Sie eins mit der Tastenkombination ``Strg + S``.
 
 
