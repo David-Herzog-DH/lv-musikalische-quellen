@@ -75,11 +75,29 @@ Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinde
 Sie finden nun eine Ordner .git (versteckter Ordner) in dem Verzeichnis.
 Dieser Ordner enthält die gesamte Versionsgeschichte des Projekts.
 
-#### 3.2. Klonen eines Repositorys
+#### 3.3. Hinzufügen von Dateien zum Repository
+Anmelden bei GitHub.
+Bitte schicken Sie mir Ihren GitHub Benutzernamen, damit ich Sie als Contributor hinzufügen kann.
+
+``david.herzog@mozarteum.at``
+
+Sie können nun Dateien zu dem Repository hinzufügen und bearbeiten.
+
+#### 3.4. Klonen eines Repositorys
 Sie können auch ein Repository von GitHub klonen.
 In diesem Fall haben wir für Sie ein Repository erstellt, das Sie klonen können.
 Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
 Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingeben: 
 
 ``git clone https://github.com/David-Herzog-DH/lv-musikalische-quellen``
+
+
+Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinden.
+
+#### 3.5 Installation von Git GUI
+Git GUI ist eine grafische Benutzeroberfläche für Git.
+Sie können Git GUI verwenden, um Änderungen zu verfolgen, zu verwalten und zu teilen.
+Git GUI ist für Linux, Windows und MacOS Betriebssysteme verfügbar, um nur einige
+zu nennen.
+
 
