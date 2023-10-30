@@ -32,7 +32,7 @@ MuseScore SourceCode ist auch auf GitHub zu finden.
 
 Link: [https://dme.mozarteum.at/movi/de](https://dme.mozarteum.at/movi/de)
 
-Die Digitale Interaktive Mozart Musikausgabe ist eine vollständig digitale Ausgabe; die Musik wird als digitales Bild direkt aus dem zugrunde liegenden Code erzeugt. Die digitale Ausgabe der musikalischen Werke von Wolfgang Amadé Mozart, die in DME::Musik bereitgestellt wird, basiert auf der vollständigen Kodierung der Musik nach den Prinzipien der Music Encoding Initiative (MEI), einem Unterbereich von XML.
+Die Digital-interaktive Mozart Edition (DIME) ist eine vollständig digitale Ausgabe; die Musik wird als digitales Bild direkt aus dem zugrunde liegenden Code erzeugt. Die digitale Ausgabe der musikalischen Werke von Wolfgang Amadé Mozart, die in DME::Musik bereitgestellt wird, basiert auf der vollständigen Kodierung der Musik nach den Prinzipien der Music Encoding Initiative (MEI), einem Unterbereich von XML.
 
 Jedes musikalische Merkmal und jedes Notationszeichen ist individuell im Code dokumentiert und umschrieben; jedes Element erhält eine einzigartige ID, die speziell für dieses Element ist, sodass es individuell adressierbar ist. Der Code ist auch maschinenlesbar und kann automatisch verarbeitet werden.
 
