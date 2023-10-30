@@ -28,7 +28,7 @@ Wir werden versuchen gemeinsam die Nightly Build Version von MuseScore installie
 MuseScore SourceCode ist auch auf GitHub zu finden.
 
 ## MoVi Stiftung Mozarteum
-[https://www.mozarteum.at/]()
+[https://dme.mozarteum.at/movi/en](https://dme.mozarteum.at/movi/en)
 
 
 
