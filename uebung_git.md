@@ -57,10 +57,29 @@ Damit Sie mit git arbeiten können, müssen Sie git auf Ihrem Computer installie
 Git ist für Linux, Windows und MacOS Betriebssysteme verfügbar, um nur einige
 zu nennen.
 
+Hier ein Link zu einer einfachen Erklärung und zur Hilfe bei der Installation von Git auf GitHub:
 
+[https://rogerdudler.github.io/git-guide/index.de.html](https://rogerdudler.github.io/git-guide/index.de.html)
 
+#### 3.1. Installationsdateien für Git
+Link für Linux: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
+Link für Windows: [https://gitforwindows.org/]([https://gitforwindows.org/)
+Link für Mac: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
+#### 3.2. Erschaffen eines lokalen Repositorys
+Nachdem Sie Git installiert haben, können Sie ein lokales Repository erstellen.
+Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
+Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingeben: 
+``git init``  
+Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinden.
+Sie finden nun eine Ordner .git (versteckter Ordner) in dem Verzeichnis.
+Dieser Ordner enthält die gesamte Versionsgeschichte des Projekts.
 
+#### 3.2. Klonen eines Repositorys
+Sie können auch ein Repository von GitHub klonen.
+In diesem Fall haben wir für Sie ein Repository erstellt, das Sie klonen können.
+Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
+Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingeben: 
 
-
+``git clone https://github.com/David-Herzog-DH/lv-musikalische-quellen``
 
