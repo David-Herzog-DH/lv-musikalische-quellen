@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://dme.mozarteum.at/DME/schemata/mei-DME-4.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei">
   <meiHead>
     <fileDesc>
