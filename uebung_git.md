@@ -100,4 +100,60 @@ Sie können Git GUI verwenden, um Änderungen zu verfolgen, zu verwalten und zu 
 Git GUI ist für Linux, Windows und MacOS Betriebssysteme verfügbar, um nur einige
 zu nennen.
 
+Link Windows: [https://git-scm.com/download/gui/windows](https://git-scm.com/download/gui/windows)
+Link Mac: [https://git-scm.com/download/gui/mac](https://git-scm.com/download/gui/mac)
+Link Linux: [https://git-scm.com/download/gui/linux](https://git-scm.com/download/gui/linux)
+
+Weitere Betriebssystemversionen: [https://git-scm.com/download/gui](https://git-scm.com/download/gui)
+
+#### 3.6 Installation von Visual Studio Code
+Als Alternative zu Git GUI können Sie auch Visual Studio Code verwenden.
+Visual Studio Code ist ein Code-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Es enthält Unterstützung für Debugging, eingebetteten Git-Control, Syntaxhervorhebung, intelligente Code-Vervollständigung, Snippets und Code-Refactoring. Es ist kostenlos und Open Source.
+Link: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+
+### 4-Übung mit Git und GitHub
+
+Sie können im GitHub Repository online im Browser Dateien hinzufügen, bearbeiten und löschen.
+Sie können auch Dateien in Ihrem lokalen Repository hinzufügen, bearbeiten und löschen.
+Sie können Dateien von Ihrem lokalen Repository zu dem GitHub Repository hochladen. 
+Dies geschieht wie folgt:
+1. Änderungen in Ihrem lokalen Repository vornehmen.
+2. Änderungen in Ihrem lokalen Repository committen. (Änderungen werden in der lokalen Versionsgeschichte gespeichert)
+3. Änderungen von Ihrem lokalen Repository zum GitHub Repository pushen. (Änderungen werden in der GitHub Versionsgeschichte gespeichert und ist für alle sichtbar!) Hier kann es zu Konflikten kommen, da ihr lokales Repository möglicherweise nicht mehr aktuell ist (mit dem des Servers übereinstimmt). In diesem Fall müssen Sie die Änderungen vom Server zu Ihrem lokalen Repository pullen und dann Ihre Änderungen pushen.
+Wenn Änderungen anderer mit Ihren Änderungen kollidieren, so wird Ihnen dies angezeigt und Sie müssen die Änderungen manuell zusammenführen.
+
+#### 4.1. .gitignore
+Die Datei .gitignore enthält eine Liste von Dateien, die von Git ignoriert werden sollen. Dies ist wichtig, weil viele Tools und Editoren lokale
+Dateien generieren, die nicht versioniert und in das Server Repository hochgeladen werden sollen.
+
+#### 4.2 Einfache Befehle
+``git status`` zeigt den Status des lokalen Repositorys an.
+``git add`` fügt Dateien zum lokalen Repository hinzu.
+``git commit`` committet Änderungen im lokalen Repository.
+``git push`` pusht Änderungen vom lokalen Repository zum GitHub Repository.
+``git pull`` pullt Änderungen vom GitHub Repository zum lokalen Repository.
+
+#### 4.3. Erstellen einer neuen Datei
+Erstellen Sie eine neue Datei in Ihrem lokalen Repository.
+
+#### 4.4. Ändern einer Datei
+Ändern Sie eine Datei in Ihrem lokalen Repository.
+Wir werden im Laufe der Übung eine Datei gemeinsam bearbeiten.
+
+#### 4.5. Commiten einer Datei
+Wir werden im Laufe der Übung eine Datei gemeinsam committen.
+
+#### 4.6. Pullen von Änderungen vom GitHub Repository zu Ihrem lokalen Repository
+Wir werden im Laufe der Übung Änderungen vom GitHub Repository zu Ihrem lokalen Repository pullen.
+
+#### 4.7. Pushen von Änderungen von Ihrem lokalen Repository zum GitHub Repository
+Wir werden im Laufe der Übung Änderungen von Ihrem lokalen Repository zum GitHub Repository pushen.
+
+#### 4.8. Konflikte und Mergen
+Wir werden Mergen von Änderungen gemeinsam üben.
+
+### 5. Installation von MuseScore (Vorabversion mit MEI Unterstützung)
+
+
 
