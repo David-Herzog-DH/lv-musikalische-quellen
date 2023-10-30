@@ -94,7 +94,14 @@ Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingebe
 
 Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinden.
 
-#### 3.5 Installation von Git GUI
+#### 3.5 Installation von Visual Studio Code
+
+Visual Studio Code ist ein Code-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Es enthält Unterstützung für Debugging, eingebetteten Git-Control, Syntaxhervorhebung, intelligente Code-Vervollständigung, Snippets und Code-Refactoring. Es ist kostenlos und Open Source.
+Link: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+
+#### 3.6 Installation von Git GUI
+Als Alternative Visual Studio Code kann auch Git GUI verwenden.
 Git GUI ist eine grafische Benutzeroberfläche für Git.
 Sie können Git GUI verwenden, um Änderungen zu verfolgen, zu verwalten und zu teilen.
 Git GUI ist für Linux, Windows und MacOS Betriebssysteme verfügbar, um nur einige
@@ -106,10 +113,6 @@ Link Linux: [https://git-scm.com/download/gui/linux](https://git-scm.com/downloa
 
 Weitere Betriebssystemversionen: [https://git-scm.com/download/gui](https://git-scm.com/download/gui)
 
-#### 3.6 Installation von Visual Studio Code
-Als Alternative zu Git GUI können Sie auch Visual Studio Code verwenden.
-Visual Studio Code ist ein Code-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Es enthält Unterstützung für Debugging, eingebetteten Git-Control, Syntaxhervorhebung, intelligente Code-Vervollständigung, Snippets und Code-Refactoring. Es ist kostenlos und Open Source.
-Link: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 
 ### 4-Übung mit Git und GitHub
