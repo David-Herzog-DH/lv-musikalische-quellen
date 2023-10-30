@@ -28,7 +28,7 @@ Wir werden versuchen gemeinsam die Nightly Build Version von MuseScore installie
 Link: [https://musescore.org/de](https://musescore.org/de)
 MuseScore SourceCode ist auch auf GitHub zu finden.
 
-## MoVi Stiftung Mozarteum
+## Digital-interaktive Mozart Edition (Stiftung Mozarteum Salzburg)
 
 Link: [https://dme.mozarteum.at/movi/de](https://dme.mozarteum.at/movi/de)
 
