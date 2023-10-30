@@ -89,8 +89,13 @@ In diesem Fall haben wir für Sie ein Repository erstellt, das Sie klonen könne
 Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
 Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingeben: 
 
-``git clone https://github.com/David-Herzog-DH/lv-musikalische-quellen``
-
+``git clone https://github.com/David-Herzog-DH/benutzername@lv-musikalische-quellen``
+Hinweis: Der Benutzername und die Emailadresse müssen mit Ihrem GitHub Account übereinstimmen. 
+Überprüfen Sie dies in den Einstellungen lokal mit:
+``git config user.name`` und ``git config user.email``
+Falls diese falsch gesetzt sind, ändern die dies durch Verwendung der folgenden Befehle:
+``git config --global user.name "Ihr Name"``
+``git config --global user.email "Ihre Emailadresse"``
 
 Dies erstellt ein lokales Repository in dem Verzeichnis, in dem Sie sich befinden.
 
