@@ -6,7 +6,7 @@
 
 ## Was ist git?
 
-Git ist ein Versionsverwaltungssystem, das von Linus Torvalds für die Entwicklung des Linux-Kernels entwickelt wurde. Es ist ein verteiltes Versionsverwaltungssystem, das heißt, dass jede*r Autor*in oder Entwickler*in eine eigene Kopie des gesamten Repositorys besitzt. Git ist ein Open-Source-Programm und kann unter der GNU General Public License v2.0 verwendet werden.
+Git ist ein Versionsverwaltungssystem, das von Linus Torvalds für die Entwicklung des Linux-Kernels entwickelt wurde. Es ist ein verteiltes Versionsverwaltungssystem, das heißt, dass jede*r Autor*in oder Entwickler*in eine eigene Kopie des gesamten Repositories besitzt. Git ist ein Open-Source-Programm und kann unter der GNU General Public License v2.0 verwendet werden.
 
 ## Was ist GitHub?
 
@@ -66,7 +66,7 @@ Link für Linux: [https://git-scm.com/download/linux](https://git-scm.com/downlo
 Link für Windows: [https://gitforwindows.org/]([https://gitforwindows.org/)
 Link für Mac: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
-#### 3.2. Erschaffen eines lokalen Repositorys
+#### 3.2. Erschaffen eines lokalen Repositories
 Nachdem Sie Git installiert haben, können Sie ein lokales Repository erstellen.
 Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
 Im Terminal (Linux, Mac) oder in der Git Bash (Windows) folgenden Befehl eingeben: 
@@ -83,7 +83,7 @@ Bitte schicken Sie mir Ihren GitHub Benutzernamen, damit ich Sie als Contributor
 
 Sie können nun Dateien zu dem Repository hinzufügen und bearbeiten.
 
-#### 3.4. Klonen eines Repositorys
+#### 3.4. Klonen eines Repositories
 Sie können auch ein Repository von GitHub klonen.
 In diesem Fall haben wir für Sie ein Repository erstellt, das Sie klonen können.
 Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
@@ -138,7 +138,7 @@ Die Datei .gitignore enthält eine Liste von Dateien, die von Git ignoriert werd
 Dateien generieren, die nicht versioniert und in das Server Repository hochgeladen werden sollen.
 
 #### 4.2 Einfache Befehle
-``git status`` zeigt den Status des lokalen Repositorys an.
+``git status`` zeigt den Status des lokalen Repositories an.
 ``git add`` fügt Dateien zum lokalen Repository hinzu.
 ``git commit`` committet Änderungen im lokalen Repository.
 ``git push`` pusht Änderungen vom lokalen Repository zum GitHub Repository.
