@@ -45,7 +45,7 @@ Das Repository wird auf GitHub gehostet unter folgendem Link::
 ### 1. Link auf git repository
 [https://github.com/David-Herzog-DH/lv-musikalische-quellen](https://github.com/David-Herzog-DH/lv-musikalische-quellen)
 
-### 2. Ansicht des Repositorium auf GitHub
+### 2. Ansicht des Repositoriums auf GitHub
 
 Alle Dateien und auch Ihre commits (Änderungen) sind auf GitHub sichtbar.
 Dies ist ein öffentliches Repository, das heißt, dass alle Änderungen für alle sichtbar sind. [https://github.com/David-Herzog-DH/lv-musikalische-quellen](https://github.com/David-Herzog-DH/lv-musikalische-quellen)
@@ -83,7 +83,7 @@ Bitte schicken Sie mir Ihren GitHub Benutzernamen, damit ich Sie als Contributor
 
 Sie können nun Dateien zu dem Repository hinzufügen und bearbeiten.
 
-#### 3.4. Klonen eines Repositorium
+#### 3.4. Klonen eines Repositoriums
 Sie können auch ein Repository von GitHub klonen.
 In diesem Fall haben wir für Sie ein Repository erstellt, das Sie klonen können.
 Wechseln Sie in das Verzeichnis, in dem Sie das Repository erstellen möchten.
