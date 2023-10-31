@@ -57,7 +57,7 @@ Damit Sie mit git arbeiten können, müssen Sie git auf Ihrem Computer installie
 Git ist für Linux, Windows und MacOS Betriebssysteme verfügbar, um nur einige
 zu nennen.
 
-Hier ein Link zu einer einfachen Erklärung und zur Hilfe bei der Installation von Git auf GitHub:
+Hier ein Link zu einer einfachen Erklärung und zur Hilfe bei der Installation von Git auf Ihrem Rechner:
 
 [https://rogerdudler.github.io/git-guide/index.de.html](https://rogerdudler.github.io/git-guide/index.de.html)
 
