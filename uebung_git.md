@@ -102,6 +102,9 @@ Falls diese falsch gesetzt sind können Sie dies durch Verwendung der folgenden 
 Überprüfen der .git lokalen Einstellungen mit:
 ``git config --list``
 
+#### 3.5. Hinzufügen von Dateien zum Repository
+Sie können nun Dateien zu dem Repository hinzufügen und bearbeiten.
+
 
 
 #### 3.5 Installation von Visual Studio Code
