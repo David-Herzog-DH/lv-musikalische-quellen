@@ -5030,7 +5030,7 @@
                 <layer n="1" xml:id="s60295e17-4abf-4915-af1d-115f8ed5f061">
                   <beam xml:id="bm_d8049e3747-">
                     <note doxml.id="d27e4085" dur="8" oct="4" pname="a" tstamp="1" xml:id="note_d29e3358"/>
-                    <note accid="s" doxml.id="d27e4087" dur="8" enclose="brack" oct="4" pname="f" tstamp="1.5" xml:id="note_d29e3359"/>
+                    <note accid="s" doxml.id="d27e4087" dur="8" oct="4" pname="f" tstamp="1.5" xml:id="note_d29e3359"/>
                     <note doxml.id="d27e4089" dur="8" oct="4" pname="g" tstamp="2" xml:id="note_d29e3360"/>
                     <note doxml.id="d27e4091" dur="8" oct="4" pname="e" tstamp="2.5" xml:id="note_d29e3361"/>
                   </beam>
@@ -6140,7 +6140,7 @@
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e4515">
                 <layer n="1" xml:id="sac86a84d-c57c-4f5e-89ad-6b5c6d663ec8">
                   <bTrem form="meas" xml:id="bt_d8049e4517">
-                    <note accid="f" doxml.id="d27e5388" dur="2" enclose="brack" oct="3" pname="e" stem.mod="1slash" tstamp="1" xml:id="note_d29e4034"/>
+                    <note accid="f" doxml.id="d27e5388" dur="2" oct="3" pname="e" stem.mod="1slash" tstamp="1" xml:id="note_d29e4034"/>
                   </bTrem>
                 </layer>
               </staff>
@@ -6186,7 +6186,7 @@
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e4547">
                 <layer n="1" xml:id="s8eeba5c6-f9f6-4d64-b097-b997fbd773d3">
-                  <note accid="f" doxml.id="d27e5697" dur="4" enclose="brack" oct="3" pname="e" tstamp="1" xml:id="note_d29e4071"/>
+                  <note accid="f" doxml.id="d27e5697" dur="4" oct="3" pname="e" tstamp="1" xml:id="note_d29e4071"/>
                   <note accid="f" doxml.id="d27e5699" dur="4" oct="2" pname="e" tstamp="2" xml:id="note_d29e4072"/>
                 </layer>
               </staff>
@@ -6334,7 +6334,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e4650">
                 <layer n="1" xml:id="s71565c3a-694c-4553-93c2-ea4a5caf526d">
-                  <note accid="f" dots="1" doxml.id="d27e5597" dur="4" enclose="brack" oct="3" pname="b" tstamp="1" xml:id="note_d29e4156"/>
+                  <note accid="f" dots="1" doxml.id="d27e5597" dur="4" oct="3" pname="b" tstamp="1" xml:id="note_d29e4156"/>
                   <beam xml:id="bm_d8049e4653-">
                     <note doxml.id="d27e5599" dur="16" oct="4" pname="c" tstamp="2.5" xml:id="note_d29e4157"/>
                     <note doxml.id="d27e5601" dur="16" oct="4" pname="d" tstamp="2.75" xml:id="note_d29e4158"/>
@@ -6429,7 +6429,7 @@
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e4715">
                 <layer n="1" xml:id="s01ee4618-ff2a-44a5-9c19-fd7b583fc5db">
-                  <note accid="f" doxml.id="d27e5733" dur="4" enclose="brack" oct="2" pname="e" tstamp="1" xml:id="note_d29e4212"/>
+                  <note accid="f" doxml.id="d27e5733" dur="4" oct="2" pname="e" tstamp="1" xml:id="note_d29e4212"/>
                   <rest doxml.id="d27e5735" dur="4" tstamp="2" xml:id="rest_d29e4213"/>
                 </layer>
               </staff>
@@ -6501,7 +6501,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e4767">
                 <layer n="1" xml:id="s27c11b59-57fd-4da8-9955-19140ea5724a">
-                  <note accid="f" doxml.id="d27e5634" dur="4" enclose="brack" oct="3" pname="b" tstamp="1" xml:id="note_d29e4252"/>
+                  <note accid="f" doxml.id="d27e5634" dur="4" oct="3" pname="b" tstamp="1" xml:id="note_d29e4252"/>
                   <rest doxml.id="d27e5637" dur="4" tstamp="2" xml:id="rest_d29e4253"/>
                 </layer>
               </staff>
@@ -6711,7 +6711,7 @@
                 <layer n="1" xml:id="s31531fa6-5c40-4451-93c5-e6994245c893">
                   <note dots="1" doxml.id="d27e5812" dur="4" oct="4" pname="d" tstamp="1" xml:id="note_d29e4371"/>
                   <beam xml:id="bm_d8049e4917-">
-                    <note accid="n" doxml.id="d27e5814" dur="16" enclose="brack" oct="4" pname="e" tstamp="2.5" xml:id="note_d29e4372"/>
+                    <note accid="n" doxml.id="d27e5814" dur="16" oct="4" pname="e" tstamp="2.5" xml:id="note_d29e4372"/>
                     <note accid="s" doxml.id="d27e5816" dur="16" oct="4" pname="f" tstamp="2.75" xml:id="note_d29e4373"/>
                   </beam>
                 </layer>
@@ -8274,7 +8274,7 @@
                   <note accid.ges="s" doxml.id="d27e7525" dur="4" oct="4" pname="f" tstamp="1" xml:id="note_d29e5290"/>
                   <beam xml:id="bm_d8049e6021-">
                     <note artic="stacciss" doxml.id="d27e7527" dur="8" oct="4" pname="g" tstamp="2" xml:id="note_d29e5291"/>
-                    <note accid.ges="s" artic="stacciss" doxml.id="d27e7529" dur="8" enclose="brack" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e5292"/>
+                    <note accid.ges="s" artic="stacciss" doxml.id="d27e7529" dur="8" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e5292"/>
                   </beam>
                 </layer>
               </staff>
@@ -8323,7 +8323,7 @@
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e6054">
                 <layer n="1" xml:id="s48a688a7-85bc-4a75-ba14-b8e6905435ac">
                   <beam xml:id="bm_d8049e6056-">
-                    <note accid="s" doxml.id="d27e7533" dur="8" enclose="brack" oct="4" pname="f" tstamp="1" xml:id="note_d29e5320"/>
+                    <note accid="s" doxml.id="d27e7533" dur="8" oct="4" pname="f" tstamp="1" xml:id="note_d29e5320"/>
                     <note doxml.id="d27e7535" dur="8" oct="4" pname="g" tstamp="1.5" xml:id="note_d29e5321"/>
                   </beam>
                   <rest doxml.id="d27e7537" dur="8" tstamp="2" xml:id="rest_d29e5322"/>
@@ -8618,7 +8618,7 @@
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e6281">
                 <layer n="1" xml:id="s8cc17237-ff4a-4e72-a778-1863888f755c">
-                  <note accid="s" doxml.id="d27e7776" dur="4" enclose="brack" oct="3" pname="f" tstamp="1" xml:id="note_d29e5501"/>
+                  <note accid="s" doxml.id="d27e7776" dur="4" oct="3" pname="f" tstamp="1" xml:id="note_d29e5501"/>
                   <rest doxml.id="d27e7778" dur="4" tstamp="2" xml:id="rest_d29e5502"/>
                 </layer>
               </staff>
@@ -8643,7 +8643,7 @@
               </staff>
               <staff codedval="sb" dme.parts="4" n="4" position="4" xml:id="st_d8049e6297">
                 <layer n="1" xml:id="s8179a2b7-cc16-4b2f-adf7-d615ee97bac1">
-                  <note accid="s" doxml.id="d27e7690" dur="2" enclose="brack" oct="4" pname="f" tstamp="1" xml:id="note_d29e5515"/>
+                  <note accid="s" doxml.id="d27e7690" dur="2" oct="4" pname="f" tstamp="1" xml:id="note_d29e5515"/>
                 </layer>
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e6300">
@@ -8667,7 +8667,7 @@
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e6315">
                 <layer n="1" xml:id="s9cbefb27-e040-466e-8eb5-cd7c7a771ff0">
                   <beam xml:id="bm_d8049e6317-">
-                    <note accid.ges="f" doxml.id="d27e7817" dur="8" enclose="brack" oct="6" pname="e" tstamp="1" xml:id="note_d29e5535"/>
+                    <note accid.ges="f" doxml.id="d27e7817" dur="8" oct="6" pname="e" tstamp="1" xml:id="note_d29e5535"/>
                     <note doxml.id="d27e7822" dur="8" oct="6" pname="d" tstamp="1.5" xml:id="note_d29e5537"/>
                     <note accid="s" doxml.id="d27e7824" dur="8" oct="6" pname="c" tstamp="2" xml:id="note_d29e5538"/>
                     <note doxml.id="d27e7826" dur="8" oct="6" pname="d" tstamp="2.5" xml:id="note_d29e5539"/>
@@ -8950,15 +8950,9 @@
                   <rest doxml.id="d27e8183" dur="4" tstamp="2" xml:id="rest_d29e5700"/>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e7966" place="above" staff="2" startid="#note_d29e5688" vo="-2" xml:id="di_d8049e6521">simile</dir>
-              </supplied>
-              <supplied>
-                <dir doxml.id="d27e8041" place="above" staff="3" startid="#note_d29e5692" vo="-2" xml:id="di_d8049e6524">simile</dir>
-              </supplied>
-              <supplied>
-                <dir doxml.id="d27e8116" ho="3" place="above" staff="4" startid="#note_d29e5696" vo="1" xml:id="di_d8049e6527">simile</dir>
-              </supplied>
+              <dir doxml.id="d27e7966" place="above" staff="2" startid="#note_d29e5688" vo="-2" xml:id="di_d8049e6521">simile</dir>
+              <dir doxml.id="d27e8041" place="above" staff="3" startid="#note_d29e5692" vo="-2" xml:id="di_d8049e6524">simile</dir>
+              <dir doxml.id="d27e8116" ho="3" place="above" staff="4" startid="#note_d29e5696" vo="1" xml:id="di_d8049e6527">simile</dir>
             </measure>
             <measure facs="#zoneOf_measure186" n="186" xml:id="measure186">
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e6530">
@@ -9071,9 +9065,7 @@
                   <rest doxml.id="d27e8202" dur="4" tstamp="2" xml:id="rest_d29e5760"/>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e8137" place="above" staff="4" startid="#note_d29e5756" vo="-2" xml:id="di_d8049e6599">simile</dir>
-              </supplied>
+              <dir doxml.id="d27e8137" place="above" staff="4" startid="#note_d29e5756" vo="-2" xml:id="di_d8049e6599">simile</dir>
             </measure>
             <measure facs="#zoneOf_measure189" n="189" xml:id="measure189">
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e6602">
@@ -9390,9 +9382,7 @@
                   </beam>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e8357" ho="4" place="above" staff="2" startid="#note_d29e5923" xml:id="di_d8049e6800">simile</dir>
-              </supplied>
+              <dir doxml.id="d27e8357" ho="4" place="above" staff="2" startid="#note_d29e5923" xml:id="di_d8049e6800">simile</dir>
             </measure>
             <measure facs="#zoneOf_measure197" n="197" xml:id="measure197">
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e6803">
@@ -13327,7 +13317,7 @@
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e9498">
                 <layer n="1" xml:id="s2f3d4b4f-34f9-41de-9a51-452f3e628220">
                   <beam xml:id="bm_d8049e9500-">
-                    <note accid="n" artic="stacciss" doxml.id="d27e12294" dur="8" enclose="brack" oct="4" pname="a" tstamp="1" xml:id="note_d29e8260"/>
+                    <note accid="n" artic="stacciss" doxml.id="d27e12294" dur="8" oct="4" pname="a" tstamp="1" xml:id="note_d29e8260"/>
                     <note artic="stacciss" doxml.id="d27e12296" dur="8" oct="4" pname="a" tstamp="1.5" xml:id="note_d29e8261"/>
                   </beam>
                   <note artic="stacciss" doxml.id="d27e12298" dur="4" oct="4" pname="a" tstamp="2" xml:id="note_d29e8262"/>
@@ -14217,7 +14207,7 @@
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e10099">
                 <layer n="1" xml:id="sd4017b52-f35c-41a2-b4b0-f837a1d4c5f5">
                   <bTrem form="meas" xml:id="bt_d8049e10101">
-                    <note accid="f" doxml.id="d27e12965" dur="2" enclose="brack" oct="4" pname="b" stem.mod="1slash" tstamp="1" xml:id="note_d29e8785"/>
+                    <note accid="f" doxml.id="d27e12965" dur="2" oct="4" pname="b" stem.mod="1slash" tstamp="1" xml:id="note_d29e8785"/>
                   </bTrem>
                 </layer>
               </staff>
@@ -14700,7 +14690,7 @@
                 <layer n="1" xml:id="sd0b6670c-c35f-44f4-a340-115922d18498">
                   <note accid="s" doxml.id="d27e13440" dur="4" oct="4" pname="c" tstamp="1" xml:id="note_d29e9055"/>
                   <rest doxml.id="d27e13442" dur="8" tstamp="2" xml:id="rest_d29e9056"/>
-                  <note accid="s" doxml.id="d27e13444" dur="8" enclose="brack" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e9057"/>
+                  <note accid="s" doxml.id="d27e13444" dur="8" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e9057"/>
                 </layer>
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e10411">
@@ -14734,8 +14724,8 @@
                 <layer n="1" xml:id="s202eb09e-09c6-430a-84fa-9a5ee7be7013">
                   <beam xml:id="bm_d8049e10432-">
                     <note accid="s" doxml.id="d27e13448" dur="8" oct="4" pname="e" tstamp="1" xml:id="note_d29e9076"/>
-                    <note accid="s" doxml.id="d27e13450" dur="8" enclose="brack" oct="4" pname="f" tstamp="1.5" xml:id="note_d29e9077"/>
-                    <note accid="n" doxml.id="d27e13452" dur="8" enclose="brack" oct="4" pname="g" tstamp="2" xml:id="note_d29e9078"/>
+                    <note accid="s" doxml.id="d27e13450" dur="8" oct="4" pname="f" tstamp="1.5" xml:id="note_d29e9077"/>
+                    <note accid="n" doxml.id="d27e13452" dur="8" oct="4" pname="g" tstamp="2" xml:id="note_d29e9078"/>
                     <note accid.ges="s" doxml.id="d27e13454" dur="8" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e9079"/>
                   </beam>
                 </layer>
@@ -14798,7 +14788,7 @@
               </staff>
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e10475">
                 <layer n="1" xml:id="s434f46a1-7588-4399-b6b3-36554aecb2da">
-                  <note accid="n" doxml.id="d27e13624" dur="4" enclose="brack" oct="5" pname="a" tstamp="1" xml:id="note_d29e9124"/>
+                  <note accid="n" doxml.id="d27e13624" dur="4" oct="5" pname="a" tstamp="1" xml:id="note_d29e9124"/>
                   <rest doxml.id="d27e13626" dur="4" tstamp="2" xml:id="rest_d29e9125"/>
                 </layer>
               </staff>
@@ -14880,7 +14870,7 @@
               </staff>
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e10532">
                 <layer n="1" xml:id="see9c0647-4b2b-4209-b6a3-ae6849b25f50">
-                  <note accid="n" doxml.id="d27e13641" dur="4" enclose="brack" oct="6" pname="d" tstamp="1" xml:id="note_d29e9174"/>
+                  <note accid="n" doxml.id="d27e13641" dur="4" oct="6" pname="d" tstamp="1" xml:id="note_d29e9174"/>
                   <rest doxml.id="d27e13643" dur="4" tstamp="2" xml:id="rest_d29e9175"/>
                 </layer>
               </staff>
@@ -15243,7 +15233,7 @@
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e10785">
                 <layer n="1" xml:id="sd9b3e83c-5385-4f11-a23e-d7fdf23feec5">
                   <chord doxml.id="d27e13975" dur="8" tstamp="1" xml:id="chord_d29e9406">
-                    <note accid="n" doxml.id="d27e13975" enclose="brack" oct="5" pname="a" xml:id="chnote_d29e9406"/>
+                    <note accid="n" doxml.id="d27e13975" oct="5" pname="a" xml:id="chnote_d29e9406"/>
                     <note doxml.id="d27e13977" oct="5" pname="c" xml:id="chnote_d29e9407"/>
                     <note doxml.id="d27e13979" oct="4" pname="f" xml:id="chnote_d29e9408"/>
                   </chord>
@@ -16475,7 +16465,7 @@
               </staff>
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e11671">
                 <layer n="1" xml:id="s0739449e-4651-4c6f-9b34-29d229071fe9">
-                  <note accid="n" doxml.id="d27e15313" dur="2" enclose="brack" oct="4" pname="f" tstamp="1" xml:id="note_d29e10154"/>
+                  <note accid="n" doxml.id="d27e15313" dur="2" oct="4" pname="f" tstamp="1" xml:id="note_d29e10154"/>
                 </layer>
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e11674">
@@ -17221,13 +17211,13 @@
               <staff codedval="sb" dme.parts="4" n="4" position="4" xml:id="st_d8049e12185">
                 <layer n="1" xml:id="s18ff6be6-507d-454f-8330-60345ae2ce93">
                   <note accid="f" doxml.id="d27e16095" dur="4" oct="3" pname="a" tstamp="1" xml:id="note_d29e10600"/>
-                  <note accid="f" doxml.id="d27e16097" dur="4" enclose="brack" oct="3" pname="e" tstamp="2" xml:id="note_d29e10601"/>
+                  <note accid="f" doxml.id="d27e16097" dur="4" oct="3" pname="e" tstamp="2" xml:id="note_d29e10601"/>
                 </layer>
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e12189">
                 <layer n="1" xml:id="sb6a5f3ba-955f-44f8-a191-58384e47ef15">
                   <bTrem form="meas" xml:id="bt_d8049e12191">
-                    <note accid="f" doxml.id="d27e16160" dur="2" enclose="brack" oct="2" pname="a" stem.mod="1slash" tstamp="1" xml:id="note_d29e10604"/>
+                    <note accid="f" doxml.id="d27e16160" dur="2" oct="2" pname="a" stem.mod="1slash" tstamp="1" xml:id="note_d29e10604"/>
                   </bTrem>
                 </layer>
               </staff>
@@ -17272,7 +17262,7 @@
               </staff>
               <staff codedval="sc" dme.parts="5" n="5" position="5" xml:id="st_d8049e12220">
                 <layer n="1" xml:id="s987c2f32-9c06-4c71-9ac9-358e0fa3012e">
-                  <note accid="f" doxml.id="d27e16164" dur="4" enclose="brack" oct="2" pname="a" tstamp="1" xml:id="note_d29e10631"/>
+                  <note accid="f" doxml.id="d27e16164" dur="4" oct="2" pname="a" tstamp="1" xml:id="note_d29e10631"/>
                   <rest doxml.id="d27e16166" dur="4" tstamp="2" xml:id="rest_d29e10632"/>
                 </layer>
               </staff>
@@ -17340,7 +17330,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e12269">
                 <layer n="1" xml:id="s7104d2d9-9d5d-4c33-a7d5-d0afda2e96be">
-                  <note accid="f" dots="1" doxml.id="d27e16049" dur="4" enclose="brack" oct="4" pname="e" tstamp="1" xml:id="note_d29e10669"/>
+                  <note accid="f" dots="1" doxml.id="d27e16049" dur="4" oct="4" pname="e" tstamp="1" xml:id="note_d29e10669"/>
                   <beam xml:id="bm_d8049e12272-">
                     <note doxml.id="d27e16051" dur="16" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e10670"/>
                     <note doxml.id="d27e16053" dur="16" oct="4" pname="g" tstamp="2.75" xml:id="note_d29e10671"/>
@@ -17403,7 +17393,7 @@
             <measure facs="#zoneOf_measure381" n="381" xml:id="measure381">
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e12312">
                 <layer n="1" xml:id="s19d35859-33a2-458b-89c1-96f99e234a03">
-                  <note accid="f" dots="1" doxml.id="d27e15932" dur="4" enclose="brack" oct="5" pname="e" tstamp="1" xml:id="note_d29e10705"/>
+                  <note accid="f" dots="1" doxml.id="d27e15932" dur="4" oct="5" pname="e" tstamp="1" xml:id="note_d29e10705"/>
                   <beam xml:id="bm_d8049e12315-">
                     <note doxml.id="d27e15934" dur="16" oct="5" pname="f" tstamp="2.5" xml:id="note_d29e10706"/>
                     <note doxml.id="d27e15936" dur="16" oct="5" pname="g" tstamp="2.75" xml:id="note_d29e10707"/>
@@ -17501,7 +17491,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e12380">
                 <layer n="1" xml:id="s2799ce7a-3be5-4dbc-83f0-2e094fc037f1">
-                  <note accid="f" dots="1" doxml.id="d27e16363" dur="4" enclose="brack" oct="4" pname="e" tstamp="1" xml:id="note_d29e10773"/>
+                  <note accid="f" dots="1" doxml.id="d27e16363" dur="4" oct="4" pname="e" tstamp="1" xml:id="note_d29e10773"/>
                   <beam xml:id="bm_d8049e12383-">
                     <note doxml.id="d27e16365" dur="16" oct="4" pname="f" tstamp="2.5" xml:id="note_d29e10774"/>
                     <note doxml.id="d27e16367" dur="16" oct="4" pname="g" tstamp="2.75" xml:id="note_d29e10775"/>
@@ -17543,7 +17533,7 @@
                   <beam xml:id="bm_d8049e12409-">
                     <note accid="f" dots="1" doxml.id="d27e16371" dur="8" oct="4" pname="a" tstamp="1" xml:id="note_d29e10795"/>
                     <note doxml.id="d27e16373" dur="16" oct="4" pname="g" tstamp="1.75" xml:id="note_d29e10796"/>
-                    <note accid="f" dots="1" doxml.id="d27e16375" dur="8" enclose="brack" oct="4" pname="b" tstamp="2" xml:id="note_d29e10797"/>
+                    <note accid="f" dots="1" doxml.id="d27e16375" dur="8" oct="4" pname="b" tstamp="2" xml:id="note_d29e10797"/>
                     <note accid.ges="f" doxml.id="d27e16378" dur="16" oct="4" pname="a" tstamp="2.75" xml:id="note_d29e10798"/>
                   </beam>
                 </layer>
@@ -17618,7 +17608,7 @@
               </staff>
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e12461">
                 <layer n="1" xml:id="sadf2d9d4-3b39-40b6-979b-992973f6f602">
-                  <note accid="f" doxml.id="d27e16317" dur="4" enclose="brack" oct="5" pname="e" tstamp="1" xml:id="note_d29e10840"/>
+                  <note accid="f" doxml.id="d27e16317" dur="4" oct="5" pname="e" tstamp="1" xml:id="note_d29e10840"/>
                   <note accid="f" doxml.id="d27e16319" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_d29e10841"/>
                 </layer>
               </staff>
@@ -17668,7 +17658,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e12496">
                 <layer n="1" xml:id="scdeda264-5169-46a8-b203-cfb6d8c732f7">
-                  <note accid="f" doxml.id="d27e16401" dur="4" enclose="brack" oct="4" pname="e" tstamp="1" xml:id="note_d29e10869"/>
+                  <note accid="f" doxml.id="d27e16401" dur="4" oct="4" pname="e" tstamp="1" xml:id="note_d29e10869"/>
                   <rest doxml.id="d27e16403" dur="4" tstamp="2" xml:id="rest_d29e10870"/>
                 </layer>
               </staff>
@@ -17896,7 +17886,7 @@
               </staff>
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e12659">
                 <layer n="1" xml:id="s7f3f5608-29aa-4b99-bb43-0cf20c39cb6d">
-                  <note accid="n" doxml.id="d27e16720" dur="8" enclose="brack" oct="5" pname="e" tstamp="1" xml:id="note_d29e10999"/>
+                  <note accid="n" doxml.id="d27e16720" dur="8" oct="5" pname="e" tstamp="1" xml:id="note_d29e10999"/>
                   <rest doxml.id="d27e16723" dur="8" tstamp="1.5" xml:id="rest_d29e11000"/>
                   <note doxml.id="d27e16725" dur="8" oct="5" pname="d" tstamp="2" xml:id="note_d29e11001"/>
                   <rest doxml.id="d27e16727" dur="8" tstamp="2.5" xml:id="rest_d29e11002"/>
@@ -18108,7 +18098,7 @@
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e12797">
                 <layer n="1" xml:id="s4b899142-eead-4172-915b-ef47cb937139">
                   <beam xml:id="bm_d8049e12799-">
-                    <note accid="f" doxml.id="d27e16689" dur="8" enclose="brack" oct="5" pname="e" tstamp="1" xml:id="note_d29e11121"/>
+                    <note accid="f" doxml.id="d27e16689" dur="8" oct="5" pname="e" tstamp="1" xml:id="note_d29e11121"/>
                     <note accid="n" doxml.id="d27e16691" dur="8" oct="5" pname="e" tstamp="1.5" xml:id="note_d29e11122"/>
                     <note doxml.id="d27e16693" dur="8" oct="5" pname="f" tstamp="2" xml:id="note_d29e11123"/>
                     <note accid="s" doxml.id="d27e16695" dur="8" oct="5" pname="f" tstamp="2.5" xml:id="note_d29e11124"/>
@@ -18654,7 +18644,7 @@
               <staff codedval="sb" dme.parts="3" n="3" position="3" xml:id="st_d8049e13171">
                 <layer n="1" xml:id="sce8f36b9-3570-4d0f-a2ba-472d8e782536">
                   <beam xml:id="bm_d8049e13173-">
-                    <note accid="f" doxml.id="d27e17471" dur="8" enclose="brack" oct="5" pname="e" tstamp="1" xml:id="note_d29e11450"/>
+                    <note accid="f" doxml.id="d27e17471" dur="8" oct="5" pname="e" tstamp="1" xml:id="note_d29e11450"/>
                     <note doxml.id="d27e17473" dur="8" oct="4" pname="a" tstamp="1.5" xml:id="note_d29e11451"/>
                   </beam>
                   <note doxml.id="d27e17475" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_d29e11452"/>
@@ -20117,15 +20107,9 @@
                   <rest doxml.id="d27e18755" dur="4" tstamp="2" xml:id="rest_d29e12309"/>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e18477" ho="3" place="above" staff="2" startid="#note_d29e12297" xml:id="di_d8049e14252">simile</dir>
-              </supplied>
-              <supplied>
-                <dir doxml.id="d27e18571" ho="4" place="above" staff="3" startid="#note_d29e12301" vo="-2" xml:id="di_d8049e14255">simile</dir>
-              </supplied>
-              <supplied>
-                <dir doxml.id="d27e18669" ho="5" place="above" staff="4" startid="#note_d29e12305" vo="-1" xml:id="di_d8049e14258">simile</dir>
-              </supplied>
+              <dir doxml.id="d27e18477" ho="3" place="above" staff="2" startid="#note_d29e12297" xml:id="di_d8049e14252">simile</dir>
+              <dir doxml.id="d27e18571" ho="4" place="above" staff="3" startid="#note_d29e12301" vo="-2" xml:id="di_d8049e14255">simile</dir>
+              <dir doxml.id="d27e18669" ho="5" place="above" staff="4" startid="#note_d29e12305" vo="-1" xml:id="di_d8049e14258">simile</dir>
             </measure>
             <sb xml:id="sb_d28e19725"/>
             <measure facs="#zoneOf_measure443" n="443" xml:id="measure443">
@@ -20569,9 +20553,7 @@
                   </beam>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e19062" place="above" staff="4" startid="#note_d29e12550" xml:id="di_d8049e14543">simile [ed]</dir>
-              </supplied>
+              <dir doxml.id="d27e19062" place="above" staff="4" startid="#note_d29e12550" xml:id="di_d8049e14543">simile [ed]</dir>
             </measure>
             <pb facs="#surface_61" xml:id="pb_d28e20135"/>
             <measure facs="#zoneOf_measure454" n="454" xml:id="measure454">
@@ -20753,9 +20735,7 @@
                   </beam>
                 </layer>
               </staff>
-              <supplied>
-                <dir doxml.id="d27e19510" ho="2" place="above" staff="5" startid="#note_d29e12668" vo="-2" xml:id="di_d8049e14666">simile</dir>
-              </supplied>
+              <dir doxml.id="d27e19510" ho="2" place="above" staff="5" startid="#note_d29e12668" vo="-2" xml:id="di_d8049e14666">simile</dir>
             </measure>
             <measure facs="#zoneOf_measure458" n="458" xml:id="measure458">
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d8049e14669">
@@ -21795,7 +21775,7 @@
               <staff codedval="sa" dme.parts="2" n="2" position="2" xml:id="st_d8049e15365">
                 <layer n="1" xml:id="sf400a28b-81db-4452-984b-bdeb39e1ee7a">
                   <note doxml.id="d27e20168" dur="4" oct="4" pname="g" tstamp="1" xml:id="note_d29e13292"/>
-                  <note accid="f" doxml.id="d27e20170" dur="8" enclose="brack" oct="4" pname="b" tstamp="2" xml:id="note_d29e13293"/>
+                  <note accid="f" doxml.id="d27e20170" dur="8" oct="4" pname="b" tstamp="2" xml:id="note_d29e13293"/>
                   <rest doxml.id="d27e20173" dur="8" tstamp="2.5" xml:id="rest_d29e13294"/>
                 </layer>
               </staff>
@@ -21812,7 +21792,7 @@
                   <beam xml:id="bm_d8049e15378-">
                     <note accid="f" doxml.id="d27e20352" dur="8" oct="4" pname="d" tstamp="1.5" xml:id="note_d29e13303"/>
                     <note doxml.id="d27e20354" dur="8" oct="4" pname="c" tstamp="2" xml:id="note_d29e13304"/>
-                    <note accid="f" doxml.id="d27e20357" dur="8" enclose="brack" oct="3" pname="b" tstamp="2.5" xml:id="note_d29e13305"/>
+                    <note accid="f" doxml.id="d27e20357" dur="8" oct="3" pname="b" tstamp="2.5" xml:id="note_d29e13305"/>
                   </beam>
                 </layer>
               </staff>
