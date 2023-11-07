@@ -102,19 +102,24 @@ Falls diese falsch gesetzt sind können Sie dies durch Verwendung der folgenden 
 Überprüfen der .git lokalen Einstellungen mit:
 ``git config --list``
 
-#### 3.5. Hinzufügen von Dateien zum Repository
+#### 3.5. Hinzufügen von Dateien zum Repository und Pushen zu GitHub
 Sie können nun Dateien zu dem Repository hinzufügen und bearbeiten.
+``git add <Dateiname>`` fügt eine Datei zum lokalen Repository hinzu.
+``git commit -m "Nachricht"`` committet Änderungen im lokalen Repository.
+``git push`` pusht Änderungen vom lokalen Repository zum GitHub Repository.
+``git pull`` pullt Änderungen vom GitHub Repository zum lokalen Repository.
 
+#### 3.6. Änderungen von GitHub Repository zu Ihrem lokalen Repository pullen
+``git pull`` pullt Änderungen vom GitHub Repository zum lokalen Repository.
 
-
-#### 3.5 Installation von Visual Studio Code
+#### 3.7 Installation von Visual Studio Code
 
 Visual Studio Code ist ein Code-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Es enthält Unterstützung für Debugging, eingebetteten Git-Control, Syntaxhervorhebung, intelligente Code-Vervollständigung, Snippets und Code-Refactoring. Es ist kostenlos und Open Source.
 Link: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 Link für mögliche Erweiterung: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
-#### 3.6 Installation von Git GUI
+#### 3.8 Installation von Git GUI
 Als Alternative Visual Studio Code kann auch Git GUI verwenden.
 Git GUI ist eine grafische Benutzeroberfläche für Git.
 Sie können Git GUI verwenden, um Änderungen zu verfolgen, zu verwalten und zu teilen.
