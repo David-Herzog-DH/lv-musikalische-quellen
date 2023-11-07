@@ -99,6 +99,10 @@ Falls diese falsch gesetzt sind können Sie dies durch Verwendung der folgenden 
 ``git config --global user.name "Ihr Name"``
 ``git config --global user.email "Ihre Emailadresse"``
 
+Überprüfen der .git lokalen Einstellungen mit:
+``git config --list``
+
+
 
 #### 3.5 Installation von Visual Studio Code
 
