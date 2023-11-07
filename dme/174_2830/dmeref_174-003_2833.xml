@@ -4,7 +4,7 @@
   <meiHead>
     <fileDesc>
       <titleStmt>
-        <title label="NMA digital" type="unit">BA4549_K174_move-3_Fox.xml</title>
+        <title label="NMA digital" type="unit">dmeref_174-003_2833.xml</title>
         <respStmt>
           <resp>NMA reference text</resp>
           <corpName xml:id="NMA-editors"/>
@@ -17,7 +17,7 @@
       </editionStmt>
       <pubStmt>
         <publisher>
-          <corpName>Mozarteum</corpName>
+          <corpName>Stiftung Mozarteum Salzburg</corpName>
           <ptr target="https://www.mozarteum.at"/>
         </publisher>
         <availability>
@@ -25,21 +25,7 @@
         </availability>
       </pubStmt>
     </fileDesc>
-    <encodingDesc>
-      <appInfo>
-        <application version="0.2.0" xml:id="parseDox2XML.xsl_v0.2.0">
-          <name>parseDox2XML.xsl</name>
-        </application>
-        <application version="0.9.8" xml:id="doxml2mei.xsl_v0.9.8">
-          <name>doxml2mei.xsl</name>
-          <p> This converter is a reasonably large collection of XSLT stylesheets (utilizing XSLT 3.0), developed by <persName xml:id="JoKep">Johannes Kepper</persName> (<ref target="http://edirom.de">ViFE</ref>) on behalf of and assisted by the <ref target="https://mozarteum.at">Mozarteum Salzburg</ref> staff, with some revisions and extensions by <persName xml:id="FK">Franz Kelnreiter</persName>. </p>
-        </application>
-        <application version="1.2.3" xml:id="enhanceFromDoxml.xsl_v1.2.3">
-          <name>enhanceFromDoxml.xsl</name>
-          <p>Corrects the MEI after the base conversion from DOX using respective data from doxml. Developed by <persName sameas="#OS">Oleksii Sapov</persName>.</p>
-        </application>
-      </appInfo>
-    </encodingDesc>
+    <encodingDesc/>
     <workList>
       <work>
         <title>
@@ -61,18 +47,6 @@
         </expressionList>
       </work>
     </workList>
-    <revisionDesc>
-      <change isodate="2023-10-23" n="1" resp="#FK">
-        <changeDesc>
-          <p>File converted from Dox to DoxML and MEI using <ptr target="#parseDox2XML.xsl_v0.2.0"/> and <ptr target="#doxml2mei.xsl_v0.9.8"/>.</p>
-        </changeDesc>
-      </change>
-      <change isodate="2023-10-23" n="2" resp="#OS">
-        <changeDesc>
-          <p>Processed with <ptr target="#enhanceFromDoxml.xsl_v1.2.3"/>.</p>
-        </changeDesc>
-      </change>
-    </revisionDesc>
   </meiHead>
   <music>
     <facsimile>
