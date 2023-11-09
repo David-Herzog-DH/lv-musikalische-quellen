@@ -313,6 +313,7 @@
           <section xml:id="se_d28e20">
             <pb facs="#surface_3" xml:id="pb_d28e20"/>
             <measure facs="#zoneOf_measure1" n="1" xml:id="measure1">
+            <tempo doxml.id="d27e22" place="above" staff="1" tstamp="1" xml:id="di_d5991e367">Allegro moderato</tempo>
               <staff codedval="sa" dme.parts="1" n="1" position="1" xml:id="st_d5991e331">
                 <layer n="1" xml:id="s65aa971d-100a-457d-9f87-4e0518144320">
                   <note doxml.id="d27e45" dur="1" oct="5" pname="f" tstamp="1" xml:id="note_d29e384"/>
@@ -363,8 +364,6 @@
                   <rest doxml.id="d27e405" dur="4" tstamp="2.5" xml:id="rest_d29e418"/>
                 </layer>
               </staff>
-              <dir doxml.id="d27e22" place="above" staff="1" tstamp="1" type="bartext" xml:id="di_d5991e367">Allegro moderato</dir>
-              <tempo doxml.id="d27e27" midi.bpm="132" mm="132" place="above" staff="1" tstamp="1" xml:id="tm_d5991e369"/>
               <supplied>
                 <dynam doxml.id="d27e43" ho="-3" staff="1" startid="#note_d29e384" vo="2" xml:id="dy_d5991e371">f</dynam>
               </supplied>
