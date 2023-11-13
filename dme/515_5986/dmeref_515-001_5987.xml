@@ -661,9 +661,7 @@
                     <mRest tstamp="1" xml:id="mRest_3588"/>
                   </layer>
                 </staff>
-                <supplied resp="#NMA-editors" xml:id="supplied_3594">
                   <dynam doxml.id="d27e56" staff="1" startid="#note_3486" xml:id="dynam_3600">p</dynam>
-                </supplied>
                 <dir doxml.id="d27e58" place="above" staff="1" startid="#note_3486" xml:id="dir_3612">dolce</dir>
                 <slur curvedir="above" endid="#note_3498" staff="1" startid="#note_3492" xml:id="slur_3624"/>
                 <tie endid="#note_3492" staff="1" startid="#note_3486" xml:id="tie_3630"/>
