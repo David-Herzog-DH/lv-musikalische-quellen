@@ -20765,8 +20765,8 @@
                     <rest doxml.id="d27e21720" dur="8" tstamp="3.5" xml:id="rest_96024"/>
                   </layer>
                 </staff>
-                <fermata place="above" part="%all" staff="1" tstamp="4" xml:id="fermata_96030"/>
-                <fermata place="below" part="%all" staff="5" tstamp="4" xml:id="fermata_96036"/>
+                <fermata part="%all" place="above" staff="1" tstamp="4" xml:id="fermata_96030"/>
+                <fermata part="%all" place="below" staff="5" tstamp="4" xml:id="fermata_96036"/>
               </measure>
             </section>
           </section>
