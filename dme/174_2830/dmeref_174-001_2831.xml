@@ -2,60 +2,68 @@
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title label="NMA digital" type="unit">dmeref_174-001_2831.xml</title>
-        <respStmt>
-          <resp>NMA reference text</resp>
-          <corpName xml:id="NMA-editors"/>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <title>Digital Mozart Edition</title>
-        </edition>
-      </editionStmt>
-      <pubStmt>
-        <publisher>
-          <corpName>Stiftung Mozarteum Salzburg</corpName>
-          <ptr target="https://www.mozarteum.at"/>
-        </publisher>
-        <availability>
-          <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
-        </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source label="NMA1" n="1" xml:id="source_1">
-          <bibl>
-            <edition xml:id="digital_image"/>
-          </bibl>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc/>
-    <workList>
-      <work>
-        <title>
-          <identifier auth="Köchelverzeichnis" label="K">174</identifier>
-        </title>
-        <expressionList>
-          <expression>
-            <title/>
-            <perfMedium>
-              <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
-                <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
-              </perfResList>
-            </perfMedium>
-          </expression>
-        </expressionList>
-      </work>
-    </workList>
-  </meiHead>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title label="NMA digital" type="unit">dmeref_174-001_2831.xml</title>
+            <respStmt>
+               <resp>NMA reference text</resp>
+               <corpName xml:id="NMA-editors"/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title>Digital Mozart Edition</title>
+            </edition>
+         </editionStmt>
+         <pubStmt>
+            <publisher>
+               <corpName>Stiftung Mozarteum Salzburg</corpName>
+               <ptr target="https://www.mozarteum.at"/>
+            </publisher>
+            <availability>
+               <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+         </pubStmt>
+         <sourceDesc>
+            <source label="NMA1" n="1" xml:id="source_1">
+               <bibl>
+                  <edition xml:id="digital_image"/>
+               </bibl>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <workList>
+         <work>
+            <title>
+               <identifier auth="Köchelverzeichnis" label="K">174</identifier>
+            </title>
+            <expressionList>
+               <expression>
+                  <title/>
+                  <perfMedium>
+                     <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
+                        <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
+                     </perfResList>
+                  </perfMedium>
+               </expression>
+            </expressionList>
+         </work>
+      </workList>
+      <encodingDesc xml:id="ee36f5p1">
+         <appInfo xml:id="aslwdac1">
+            <application xml:id="ax2fry4" startdate="2023-11-21T10:07:55" version="1.0.3p" enddate="2023-11-21T10:14:14">
+               <name xml:id="np3v7ok2">mei-friend</name>
+               <p xml:id="puc4vm51">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
   <music>
     <facsimile decls="#digital_image">
       <surface label="3" xml:id="surface_3">
@@ -993,7 +1001,6 @@
                       <note doxml.id="d27e756" dur="32" grace="unknown" oct="4" pname="d" stem.dir="up" xml:id="note_5088"/>
                       <note doxml.id="d27e758" dur="32" grace="unknown" oct="4" pname="c" stem.dir="up" xml:id="note_5094"/>
                     </beam>
-                    <note doxml.id="d27e756" dur="32" grace="unknown" oct="4" pname="d" stem.dir="up" xml:id="note_5100"/>
                     <note accid.ges="f" doxml.id="d27e761" dur="8" oct="4" pname="e" tstamp="1.75" xml:id="note_5106"/>
                     <note doxml.id="d27e763" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_5112"/>
                     <note accid.ges="f" doxml.id="d27e765" dur="4" oct="4" pname="e" tstamp="2.5" xml:id="note_5118"/>
@@ -2286,7 +2293,11 @@
                       <note accid.ges="f" doxml.id="d27e2099" dur="8" oct="5" pname="b" tstamp="2" xml:id="note_11118"/>
                       <note accid="n" doxml.id="d27e2101" dur="8" oct="5" pname="a" tstamp="2.25" xml:id="note_11124"/>
                       <note artic="stacc" doxml.id="d27e2103" dur="8" oct="5" pname="g" tstamp="2.5" xml:id="note_11130"/>
-                      <note artic="stacc" doxml.id="d27e2105" dur="8" oct="5" pname="f" tstamp="2.75" xml:id="note_11136"/>
+                       <note doxml.id="d27e2105" dur="8" oct="5" pname="f" tstamp="2.75" xml:id="note_11136">
+                          <supplied xml:id="supplied_11136" resp="#NMA-editors">
+                             <artic xml:id="artic_11136" artic="stacc"/>
+                          </supplied>
+                       </note>
                     </beam>
                   </layer>
                 </staff>
