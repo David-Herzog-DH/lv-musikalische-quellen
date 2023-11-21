@@ -389,16 +389,12 @@
                     <rest doxml.id="d27e405" dur="4" tstamp="2.5" xml:id="rest_2076"/>
                   </layer>
                 </staff>
-                <supplied xml:id="supplied_2094">
-                  <dynam doxml.id="d27e43" staff="1" startid="#note_1878" xml:id="dynam_2100">f</dynam>
-                </supplied>
+                <dynam doxml.id="d27e43" staff="1" startid="#note_1878" xml:id="dynam_2100">f</dynam>
                 <dynam doxml.id="d27e96" staff="2" startid="#note_1902" xml:id="dynam_2112">fp</dynam>
                 <dynam doxml.id="d27e106" staff="2" startid="#note_1932" xml:id="dynam_2124">fp</dynam>
                 <dynam doxml.id="d27e259" staff="4" startid="#note_1992" xml:id="dynam_2136">fp</dynam>
                 <dynam doxml.id="d27e269" staff="4" startid="#note_2022" xml:id="dynam_2154">fp</dynam>
-                <supplied xml:id="supplied_2166">
                   <dynam doxml.id="d27e397" staff="5" startid="#note_2058" xml:id="dynam_2172">f</dynam>
-                </supplied>
                 <slur curvedir="below" endid="#note_1908" staff="2" startid="#note_1902" xml:id="slur_2184"/>
                 <slur curvedir="below" endid="#note_1938" staff="2" startid="#note_1932" xml:id="slur_2190"/>
                 <slur curvedir="below" endid="#note_1998" staff="4" startid="#note_1992" xml:id="slur_2196"/>
@@ -718,9 +714,7 @@
                 </staff>
                 <dynam doxml.id="d27e211" staff="2" startid="#note_3570" xml:id="dynam_3750">fp</dynam>
                 <dynam doxml.id="d27e221" staff="2" startid="#note_3600" xml:id="dynam_3762">fp</dynam>
-                <supplied resp="#NMA-editors" xml:id="supplied_3774">
-                  <dynam doxml.id="d27e374" staff="4" startid="#note_3660" xml:id="dynam_3780">fp</dynam>
-                </supplied>
+                <dynam doxml.id="d27e374" staff="4" startid="#note_3660" xml:id="dynam_3780">fp</dynam>
                 <dynam doxml.id="d27e384" staff="4" startid="#note_3690" xml:id="dynam_3792">fp</dynam>
                 <slur curvedir="below" endid="#note_3576" staff="2" startid="#note_3570" xml:id="slur_3804"/>
                 <slur curvedir="above" endid="#note_3606" staff="2" startid="#note_3600" xml:id="slur_3810"/>
@@ -807,9 +801,7 @@
                 <supplied resp="#NMA-editors" xml:id="supplied_4194">
                   <dynam doxml.id="d27e710" staff="4" startid="#note_4056" xml:id="dynam_4200">f</dynam>
                 </supplied>
-                <supplied resp="#NMA-editors" xml:id="supplied_4212">
-                  <slur curvedir="above" endid="#note_3876" staff="1" startid="#note_3864" xml:id="slur_4218"/>
-                </supplied>
+                <slur curvedir="above" endid="#note_3876" staff="1" startid="#note_3864" xml:id="slur_4218"/>
                 <supplied resp="#NMA-editors" xml:id="supplied_4230">
                   <slur curvedir="above" endid="#note_3924" staff="2" startid="#note_3912" xml:id="slur_4236"/>
                 </supplied>
