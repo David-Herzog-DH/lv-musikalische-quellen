@@ -2,60 +2,68 @@
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title label="NMA digital" type="unit">dmeref_515-001_5987.xml</title>
-        <respStmt>
-          <resp>NMA reference text</resp>
-          <corpName xml:id="NMA-editors"/>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <title>Digital Mozart Edition</title>
-        </edition>
-      </editionStmt>
-      <pubStmt>
-        <publisher>
-          <corpName>Stiftung Mozarteum Salzburg</corpName>
-          <ptr target="https://www.mozarteum.at"/>
-        </publisher>
-        <availability>
-          <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
-        </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source label="NMA1" n="1" xml:id="source_1">
-          <bibl>
-            <edition xml:id="digital_image"/>
-          </bibl>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc/>
-    <workList>
-      <work>
-        <title>
-          <identifier auth="Köchelverzeichnis" label="K">515</identifier>
-        </title>
-        <expressionList>
-          <expression>
-            <title/>
-            <perfMedium>
-              <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
-                <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
-              </perfResList>
-            </perfMedium>
-          </expression>
-        </expressionList>
-      </work>
-    </workList>
-  </meiHead>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title label="NMA digital" type="unit">dmeref_515-001_5987.xml</title>
+            <respStmt>
+               <resp>NMA reference text</resp>
+               <corpName xml:id="NMA-editors"/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title>Digital Mozart Edition</title>
+            </edition>
+         </editionStmt>
+         <pubStmt>
+            <publisher>
+               <corpName>Stiftung Mozarteum Salzburg</corpName>
+               <ptr target="https://www.mozarteum.at"/>
+            </publisher>
+            <availability>
+               <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+         </pubStmt>
+         <sourceDesc>
+            <source label="NMA1" n="1" xml:id="source_1">
+               <bibl>
+                  <edition xml:id="digital_image"/>
+               </bibl>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <workList>
+         <work>
+            <title>
+               <identifier auth="Köchelverzeichnis" label="K">515</identifier>
+            </title>
+            <expressionList>
+               <expression>
+                  <title/>
+                  <perfMedium>
+                     <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
+                        <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
+                     </perfResList>
+                  </perfMedium>
+               </expression>
+            </expressionList>
+         </work>
+      </workList>
+      <encodingDesc xml:id="egegwgi1">
+         <appInfo xml:id="ay4k6lm2">
+            <application xml:id="aj00qr31" startdate="2023-11-28T14:31:37" version="1.0.3p" enddate="2023-11-28T14:38:30">
+               <name xml:id="nd12e3i2">mei-friend</name>
+               <p xml:id="p2sxr1z2">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
   <music>
     <facsimile decls="#digital_image">
       <surface label="27" xml:id="surface_27">
@@ -5611,8 +5619,16 @@
                 </staff>
                 <staff n="5" xml:id="staff_25254">
                   <layer n="1" xml:id="layer_25260">
-                    <note artic="spicc" doxml.id="d27e5471" dur="4" oct="3" pname="d" tstamp="1" xml:id="note_25266"/>
-                    <note artic="spicc" doxml.id="d27e5473" dur="4" oct="2" pname="d" tstamp="2" xml:id="note_25272"/>
+                     <note doxml.id="d27e5471" dur="4" oct="3" pname="d" tstamp="1" xml:id="note_25266">
+                        <supplied xml:id="supplied_25266" resp="#NMA-editors">
+                           <artic xml:id="artic_25266" artic="spicc"/>
+                        </supplied>
+                     </note>
+                     <note doxml.id="d27e5473" dur="4" oct="2" pname="d" tstamp="2" xml:id="note_25272">
+                        <supplied xml:id="supplied_25272" resp="#NMA-editors">
+                           <artic xml:id="artic_25272" artic="spicc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e5476" dur="2" tstamp="3" xml:id="rest_25278"/>
                   </layer>
                 </staff>
@@ -5854,7 +5870,7 @@
                 <slur curvedir="below" endid="#note_26268" staff="4" startid="#note_26226" xml:id="slur_26388"/>
                 <slur curvedir="below" endid="#note_26340" staff="5" startid="#note_26298" xml:id="slur_26394"/>
                 <tie endid="#note_26430" staff="1" startid="#note_26118" xml:id="tie_26406"/>
-              </measure>
+               </measure>
               <measure facs="#zoneOf_m114_k515_001" n="114" xml:id="m114_k515_001">
                 <staff n="1" xml:id="staff_26418">
                   <layer n="1" xml:id="layer_26424">
@@ -5893,7 +5909,6 @@
                 </staff>
                 <staff n="5" xml:id="staff_26562">
                   <layer n="1" xml:id="layer_26568">
-                    <note doxml.id="d27e5528" dur="4" oct="3" pname="d" tstamp="1" xml:id="note_26574"/>
                     <note accid="f" doxml.id="d27e5530" dur="4" oct="3" pname="e" tstamp="2" xml:id="note_26580"/>
                     <note doxml.id="d27e5532" dur="4" oct="3" pname="d" tstamp="3" xml:id="note_26586"/>
                     <note artic="spicc" doxml.id="d27e5534" dur="4" oct="2" pname="d" tstamp="4" xml:id="note_26592"/>
@@ -5906,12 +5921,10 @@
                 <dynam doxml.id="d27e5231" staff="2" startid="#note_26466" xml:id="dynam_26628">f</dynam>
                 <dynam doxml.id="d27e5327" staff="3" startid="#note_26502" xml:id="dynam_26640">f</dynam>
                 <dynam doxml.id="d27e5432" staff="4" startid="#note_26538" xml:id="dynam_26658">f</dynam>
-                <dynam doxml.id="d27e5526" staff="5" startid="#note_26574" xml:id="dynam_26670">f</dynam>
                 <slur curvedir="below" endid="#note_26448" staff="1" startid="#note_26442" xml:id="slur_26682"/>
                 <slur curvedir="below" endid="#note_26484" staff="2" startid="#note_26478" xml:id="slur_26688"/>
                 <slur curvedir="below" endid="#note_26520" staff="3" startid="#note_26514" xml:id="slur_26694"/>
                 <slur curvedir="above" endid="#note_26550" staff="4" startid="#note_26538" xml:id="slur_26700"/>
-                <slur curvedir="above" endid="#note_26586" staff="5" startid="#note_26574" xml:id="slur_26706"/>
               </measure>
               <measure facs="#zoneOf_m115_k515_001" n="115" xml:id="m115_k515_001">
                 <staff n="1" xml:id="staff_26718">
@@ -8181,7 +8194,8 @@
                 </supplied>
                 <slur curvedir="above" endid="#note_37164" staff="1" startid="#note_37158" xml:id="slur_37278"/>
                 <tie endid="#note_37158" staff="1" startid="#note_37152" xml:id="tie_37284"/>
-              </measure>
+                 <turn xml:id="tf4l9n4" staff="1" startid="#note_37158"/>
+               </measure>
               <measure facs="#zoneOf_m156_k515_001" n="156" xml:id="m156_k515_001">
                 <staff n="1" xml:id="staff_37296">
                   <layer n="1" xml:id="layer_37302">
@@ -8335,7 +8349,8 @@
                 </staff>
                 <slur curvedir="above" endid="#note_37782" staff="1" startid="#note_37776" xml:id="slur_37878"/>
                 <tie endid="#note_37776" staff="1" startid="#note_37770" xml:id="tie_37884"/>
-              </measure>
+                 <turn xml:id="tbc0bd51" staff="1" startid="#note_37776"/>
+               </measure>
               <sb xml:id="sb_37890"/>
               <measure facs="#zoneOf_m160_k515_001" n="160" xml:id="m160_k515_001">
                 <staff n="1" xml:id="staff_37902">
