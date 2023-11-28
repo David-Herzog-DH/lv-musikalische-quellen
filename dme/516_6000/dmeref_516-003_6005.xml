@@ -2,60 +2,68 @@
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/ism-dme/DIME-tools/main/schemas/mei-DME-4.0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei meiversion="4.0.1" xmlns="http://www.music-encoding.org/ns/mei">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title label="NMA digital" type="unit">dmeref_516-003_6005.xml</title>
-        <respStmt>
-          <resp>NMA reference text</resp>
-          <corpName xml:id="NMA-editors"/>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <title>Digital Mozart Edition</title>
-        </edition>
-      </editionStmt>
-      <pubStmt>
-        <publisher>
-          <corpName>Stiftung Mozarteum Salzburg</corpName>
-          <ptr target="https://www.mozarteum.at"/>
-        </publisher>
-        <availability>
-          <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
-        </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source label="NMA1" n="1" xml:id="source_1">
-          <bibl>
-            <edition xml:id="digital_image"/>
-          </bibl>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc/>
-    <workList>
-      <work>
-        <title>
-          <identifier auth="Köchelverzeichnis" label="K">516</identifier>
-        </title>
-        <expressionList>
-          <expression>
-            <title/>
-            <perfMedium>
-              <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
-                <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
-                <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
-                <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
-              </perfResList>
-            </perfMedium>
-          </expression>
-        </expressionList>
-      </work>
-    </workList>
-  </meiHead>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title label="NMA digital" type="unit">dmeref_516-003_6005.xml</title>
+            <respStmt>
+               <resp>NMA reference text</resp>
+               <corpName xml:id="NMA-editors"/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title>Digital Mozart Edition</title>
+            </edition>
+         </editionStmt>
+         <pubStmt>
+            <publisher>
+               <corpName>Stiftung Mozarteum Salzburg</corpName>
+               <ptr target="https://www.mozarteum.at"/>
+            </publisher>
+            <availability>
+               <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+         </pubStmt>
+         <sourceDesc>
+            <source label="NMA1" n="1" xml:id="source_1">
+               <bibl>
+                  <edition xml:id="digital_image"/>
+               </bibl>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc/>
+      <workList>
+         <work>
+            <title>
+               <identifier auth="Köchelverzeichnis" label="K">516</identifier>
+            </title>
+            <expressionList>
+               <expression>
+                  <title/>
+                  <perfMedium>
+                     <perfResList auth.uri="https://www.loc.gov/standards/valuelist/marcmusperf.html">
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-1" n="1" xml:id="instrVoice_1"/>
+                        <perfRes auth="marcmusperf" codedval="sa" label="violins-2" n="2" xml:id="instrVoice_2"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-1" n="3" xml:id="instrVoice_3"/>
+                        <perfRes auth="marcmusperf" codedval="sb" label="viola-2" n="4" xml:id="instrVoice_4"/>
+                        <perfRes auth="marcmusperf" codedval="sd" label="bass" n="5" xml:id="instrVoice_5"/>
+                     </perfResList>
+                  </perfMedium>
+               </expression>
+            </expressionList>
+         </work>
+      </workList>
+      <encodingDesc xml:id="ekjtzlh">
+         <appInfo xml:id="ax476cx2">
+            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-11-28T14:32:57">
+               <name xml:id="ns3o4ht1">mei-friend</name>
+               <p xml:id="ps0u20a">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
   <music>
     <facsimile decls="#digital_image">
       <surface label="76" xml:id="surface_76">
@@ -246,11 +254,21 @@
               <dynam doxml.id="d27e257" staff="3" startid="#note_1032" xml:id="dynam_1218">p</dynam>
               <dynam doxml.id="d27e359" staff="4" startid="#note_1074" xml:id="dynam_1230">p</dynam>
               <dynam doxml.id="d27e443" staff="5" startid="#note_1134" xml:id="dynam_1242">p</dynam>
-              <dir doxml.id="d27e43" place="above" staff="1" startid="#note_930" xml:id="dir_1260">sord</dir>
-              <dir doxml.id="d27e158" place="above" staff="2" startid="#note_990" xml:id="dir_1272">sord</dir>
-              <dir doxml.id="d27e259" place="above" staff="3" startid="#note_1032" xml:id="dir_1284">sord</dir>
-              <dir doxml.id="d27e361" place="above" staff="4" startid="#note_1074" xml:id="dir_1296">sord</dir>
-              <dir doxml.id="d27e445" place="above" staff="5" startid="#note_1134" xml:id="dir_1308">sord</dir>
+               <supplied xml:id="supplied_1260" resp="#NMA-editors">
+                  <dir doxml.id="d27e43" place="above" staff="1" startid="#note_930" xml:id="dir_1260">con sordino</dir>
+               </supplied>
+               <supplied xml:id="supplied_1272" resp="#NMA-editors">
+                  <dir doxml.id="d27e158" place="above" staff="2" startid="#note_990" xml:id="dir_1272">con sordino</dir>
+               </supplied>
+               <supplied xml:id="supplied_1284" resp="#NMA-editors">
+                  <dir doxml.id="d27e259" place="above" staff="3" startid="#note_1032" xml:id="dir_1284">con sordino</dir>
+               </supplied>
+               <supplied xml:id="supplied_1296" resp="#NMA-editors">
+                  <dir doxml.id="d27e361" place="above" staff="4" startid="#note_1074" xml:id="dir_1296">con sordino</dir>
+               </supplied>
+               <supplied xml:id="supplied_1308" resp="#NMA-editors">
+                  <dir doxml.id="d27e445" place="above" staff="5" startid="#note_1134" xml:id="dir_1308">con sordino</dir>
+               </supplied>
               <slur curvedir="below" endid="#note_948" staff="1" startid="#note_930" xml:id="slur_1320"/>
               <slur curvedir="below" endid="#note_972" staff="1" startid="#note_954" xml:id="slur_1326"/>
               <slur curvedir="below" endid="#note_1014" staff="2" startid="#note_996" xml:id="slur_1332"/>
