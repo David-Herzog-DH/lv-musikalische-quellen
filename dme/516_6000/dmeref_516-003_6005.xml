@@ -170,7 +170,7 @@
                 <label xml:id="label_P1">Violino I</label>
               </staffDef>
               <staffDef clef.line="2" clef.shape="G" decls="#instrVoice_2" doxml.id="d27e154" lines="5" n="2" xml:id="staffDef_P2">
-                <label xml:id="label_P2">Violins-2</label>
+                <label xml:id="label_P2">Violino II</label>
               </staffDef>
               <staffDef clef.line="3" clef.shape="C" decls="#instrVoice_3" doxml.id="d27e255" lines="5" n="3" xml:id="staffDef_P3">
                 <label xml:id="label_P3">Viola I</label>
