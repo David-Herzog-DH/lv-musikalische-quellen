@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="ecuqrkg">
          <appInfo xml:id="acgygqu1">
-            <application xml:id="aaidnjp2" startdate="2023-12-05T16:39:01" version="1.0.3p" enddate="2023-12-05T16:41:09">
+            <application xml:id="aaidnjp2" startdate="2023-12-05T16:39:01" version="1.0.3p" enddate="2023-12-05T17:18:18">
                <name xml:id="nx56xm11">mei-friend</name>
                <p xml:id="pymqgo9">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -7025,7 +7025,7 @@
                   </beam>
                 </layer>
               </staff>
-              <trill staff="1" startid="#note_32970" xml:id="trill_33204"/>
+               <trill staff="1" startid="#note_32970" xml:id="trill_33204"/>
               <trill staff="2" startid="#note_33006" xml:id="trill_33210"/>
               <trill staff="3" startid="#note_33042" xml:id="trill_33216"/>
               <dynam doxml.id="d27e7374" staff="1" startid="#note_32970" xml:id="dynam_33222">f</dynam>
@@ -7257,8 +7257,6 @@
                     <note doxml.id="d27e7458" dur="32" grace="unknown" oct="4" pname="e" stem.dir="up" xml:id="note_34380"/>
                     <note doxml.id="d27e7460" dur="32" grace="unknown" oct="4" pname="f" stem.dir="up" xml:id="note_34386"/>
                   </beam>
-                  <note doxml.id="d27e7456" dur="32" grace="unknown" oct="4" pname="f" stem.dir="up" xml:id="note_34392"/>
-                  <note doxml.id="d27e7458" dur="32" grace="unknown" oct="4" pname="e" stem.dir="up" xml:id="note_34398"/>
                   <beam xml:id="beam_34404">
                     <note doxml.id="d27e7462" dur="8" oct="4" pname="a" tstamp="3" xml:id="note_34410"/>
                     <note dots="1" doxml.id="d27e7464" dur="16" oct="4" pname="g" tstamp="3.5" xml:id="note_34416"/>
