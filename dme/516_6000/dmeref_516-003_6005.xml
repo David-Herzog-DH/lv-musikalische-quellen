@@ -4713,11 +4713,11 @@
               <dynam doxml.id="d27e4767" staff="1" startid="#note_22950" xml:id="dynam_23124">sf</dynam>
               <dynam doxml.id="d27e4771" staff="1" startid="#note_22956" xml:id="dynam_23136">p</dynam>
               <dynam doxml.id="d27e4852" staff="2" startid="#note_22998" xml:id="dynam_23148">sf</dynam>
-              <dynam doxml.id="d27e4855" staff="2" startid="#note_22998" xml:id="dynam_23160">p</dynam>
+              <dynam doxml.id="d27e4855" staff="2" tstamp="4" place="between" xml:id="dynam_23160">p</dynam>
               <dynam doxml.id="d27e4942" staff="3" startid="#note_23040" xml:id="dynam_23172">sf</dynam>
               <dynam doxml.id="d27e4947" staff="3" startid="#note_23052" xml:id="dynam_23184">p</dynam>
               <dynam doxml.id="d27e5080" staff="5" startid="#note_23118" xml:id="dynam_23202">sf</dynam>
-              <dynam doxml.id="d27e5082" staff="5" startid="#note_23118" xml:id="dynam_23214">p</dynam>
+              <dynam doxml.id="d27e5082" staff="5" tstamp="4" place="between" xml:id="dynam_23214">p</dynam>
               <slur curvedir="above" endid="#note_22938" staff="1" startid="#note_22932" xml:id="slur_23226"/>
               <slur curvedir="above" endid="#note_23298" staff="1" startid="#note_22950" xml:id="slur_23232"/>
             </measure>
