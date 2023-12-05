@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="ekjtzlh">
          <appInfo xml:id="ax476cx2">
-            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T13:53:53">
+            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T13:56:46">
                <name xml:id="ns3o4ht1">mei-friend</name>
                <p xml:id="ps0u20a">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -1212,7 +1212,9 @@
               <slur curvedir="below" endid="#note_5790" staff="4" startid="#note_5772" xml:id="slur_5886"/>
               <tie endid="#note_5916" staff="1" startid="#note_5616" xml:id="tie_5892"/>
                <supplied xml:id="smsazz81" resp="#NMA-editors">
-                  <turn xml:id="t1ynm841" staff="1" startid="#note_5580"/>
+                  <supplied xml:id="stzvah3" resp="#NMA-editors">
+                     <turn xml:id="t1ynm841" staff="1" tstamp="1.75"/>
+                  </supplied>
                </supplied>
              </measure>
             <measure facs="#zoneOf_m14_k516_003" n="14" xml:id="m14_k516_003">
