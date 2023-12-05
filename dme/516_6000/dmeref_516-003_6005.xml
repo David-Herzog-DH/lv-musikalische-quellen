@@ -4116,7 +4116,7 @@
               <slur curvedir="below" endid="#note_20094" staff="3" startid="#note_20046" xml:id="slur_20256"/>
               <slur curvedir="below" endid="#note_20160" staff="4" startid="#note_20142" xml:id="slur_20262"/>
                <supplied xml:id="skwpxes1" resp="#NMA-editors">
-                  <turn xml:id="t0x9cpx2" staff="1" startid="#note_19920"/>
+                  <turn xml:id="t0x9cpx2" staff="1" tstamp="1.75"/>
                </supplied>
              </measure>
             <measure facs="#zoneOf_m47_k516_003" n="47" xml:id="m47_k516_003">
@@ -4412,7 +4412,7 @@
               <slur curvedir="below" endid="#note_21570" staff="3" startid="#note_21522" xml:id="slur_21726"/>
               <slur curvedir="below" endid="#note_21630" staff="4" startid="#note_21612" xml:id="slur_21732"/>
                <supplied xml:id="sfjzjml2" resp="#NMA-editors">
-                  <turn xml:id="tkai9nx2" staff="1" startid="#note_21420"/>
+                  <turn xml:id="tkai9nx2" staff="1" tstamp="1.75"/>
                </supplied>
              </measure>
             <measure facs="#zoneOf_m51_k516_003" n="51" xml:id="m51_k516_003">
