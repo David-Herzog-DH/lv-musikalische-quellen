@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="ekjtzlh">
          <appInfo xml:id="ax476cx2">
-            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-04T20:10:54">
+            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T01:46:12">
                <name xml:id="ns3o4ht1">mei-friend</name>
                <p xml:id="ps0u20a">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -280,7 +280,8 @@
               <slur curvedir="below" endid="#note_1152" staff="5" startid="#note_1134" xml:id="slur_1362"/>
               <slur curvedir="below" endid="#note_1176" staff="5" startid="#note_1158" xml:id="slur_1368"/>
               <tie endid="#note_1542" staff="3" startid="#note_1056" xml:id="tie_1374"/>
-            </measure>
+               <gliss xml:id="gxgyva7" staff="1" startid="#note_930" endid="#note_942"/>
+             </measure>
             <measure facs="#zoneOf_m2_k516_003" n="2" xml:id="m2_k516_003">
               <staff n="1" xml:id="staff_1386">
                 <layer n="1" xml:id="layer_1392">
@@ -912,7 +913,10 @@
               <slur curvedir="below" endid="#note_4158" staff="2" startid="#note_4152" xml:id="slur_4410"/>
               <slur curvedir="below" endid="#note_4254" staff="3" startid="#note_4206" xml:id="slur_4416"/>
               <slur curvedir="below" endid="#note_4320" staff="4" startid="#note_4302" xml:id="slur_4422"/>
-            </measure>
+               <supplied xml:id="spity0o1" resp="#NMA-editors">
+                  <turn xml:id="tizlyoa" staff="1" startid="#note_4080"/>
+               </supplied>
+             </measure>
             <measure facs="#zoneOf_m10_k516_003" n="10" xml:id="m10_k516_003">
               <staff n="1" xml:id="staff_4440">
                 <layer n="1" xml:id="layer_4446">
@@ -1205,7 +1209,10 @@
               <slur curvedir="below" endid="#note_5730" staff="3" startid="#note_5682" xml:id="slur_5880"/>
               <slur curvedir="below" endid="#note_5790" staff="4" startid="#note_5772" xml:id="slur_5886"/>
               <tie endid="#note_5916" staff="1" startid="#note_5616" xml:id="tie_5892"/>
-            </measure>
+               <supplied xml:id="smsazz81" resp="#NMA-editors">
+                  <turn xml:id="t1ynm841" staff="1" startid="#note_5580"/>
+               </supplied>
+             </measure>
             <measure facs="#zoneOf_m14_k516_003" n="14" xml:id="m14_k516_003">
               <staff n="1" xml:id="staff_5904">
                 <layer n="1" xml:id="layer_5910">
@@ -4104,7 +4111,10 @@
               <slur curvedir="below" endid="#note_19998" staff="2" startid="#note_19992" xml:id="slur_20250"/>
               <slur curvedir="below" endid="#note_20094" staff="3" startid="#note_20046" xml:id="slur_20256"/>
               <slur curvedir="below" endid="#note_20160" staff="4" startid="#note_20142" xml:id="slur_20262"/>
-            </measure>
+               <supplied xml:id="skwpxes1" resp="#NMA-editors">
+                  <turn xml:id="t0x9cpx2" staff="1" startid="#note_19920"/>
+               </supplied>
+             </measure>
             <measure facs="#zoneOf_m47_k516_003" n="47" xml:id="m47_k516_003">
               <staff n="1" xml:id="staff_20280">
                 <layer n="1" xml:id="layer_20286">
@@ -4397,7 +4407,10 @@
               <slur curvedir="below" endid="#note_21480" staff="2" startid="#note_21474" xml:id="slur_21720"/>
               <slur curvedir="below" endid="#note_21570" staff="3" startid="#note_21522" xml:id="slur_21726"/>
               <slur curvedir="below" endid="#note_21630" staff="4" startid="#note_21612" xml:id="slur_21732"/>
-            </measure>
+               <supplied xml:id="sfjzjml2" resp="#NMA-editors">
+                  <turn xml:id="tkai9nx2" staff="1" startid="#note_21420"/>
+               </supplied>
+             </measure>
             <measure facs="#zoneOf_m51_k516_003" n="51" xml:id="m51_k516_003">
               <staff n="1" xml:id="staff_21744">
                 <layer n="1" xml:id="layer_21750">
@@ -6902,7 +6915,10 @@
               <slur curvedir="below" endid="#note_34026" staff="2" startid="#note_33978" xml:id="slur_34272"/>
               <slur curvedir="above" endid="#note_34092" staff="3" startid="#note_34086" xml:id="slur_34278"/>
               <slur curvedir="above" endid="#note_34620" staff="5" startid="#note_34212" xml:id="slur_34290"/>
-            </measure>
+               <supplied xml:id="s9gip2r2" resp="#NMA-editors">
+                  <turn xml:id="tkh0vjb" staff="1" startid="#note_33918"/>
+               </supplied>
+             </measure>
             <measure facs="#zoneOf_m79_k516_003" n="79" xml:id="m79_k516_003">
               <staff n="1" xml:id="staff_34302">
                 <layer n="1" xml:id="layer_34308">
