@@ -5865,7 +5865,7 @@
                     </beam>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_26118" xml:id="trill_26346"/>
+                <trill extender="true" staff="1" startid="#note_26118" tstamp2="1m+3,99" xml:id="trill_26346"/>
                 <dynam doxml.id="d27e5413" staff="4" startid="#note_26226" xml:id="dynam_26352">p</dynam>
                 <supplied resp="#NMA-editors" xml:id="supplied_26364">
                   <dynam doxml.id="d27e5507" staff="5" startid="#note_26298" xml:id="dynam_26370">p</dynam>
@@ -5926,9 +5926,8 @@
                      </note>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_26430" xml:id="trill_26598"/>
-                <trill staff="2" startid="#note_26466" xml:id="trill_26604"/>
-                <trill staff="3" startid="#note_26502" xml:id="trill_26610"/>
+                <trill extender="true" staff="2" startid="#note_26466" tstamp2="0m+3.99" xml:id="trill_26604"/>
+                <trill extender="true" staff="3" startid="#note_26502" tstamp2="0m+3.99" xml:id="trill_26610"/>
                 <dynam doxml.id="d27e5124" staff="1" startid="#note_26430" xml:id="dynam_26616">f</dynam>
                 <dynam doxml.id="d27e5231" staff="2" startid="#note_26466" xml:id="dynam_26628">f</dynam>
                 <dynam doxml.id="d27e5327" staff="3" startid="#note_26502" xml:id="dynam_26640">f</dynam>
@@ -8250,7 +8249,7 @@
                 </supplied>
                 <slur curvedir="above" endid="#note_37164" staff="1" startid="#note_37158" xml:id="slur_37278"/>
                 <tie endid="#note_37158" staff="1" startid="#note_37152" xml:id="tie_37284"/>
-                 <turn xml:id="tf4l9n4" staff="1" startid="#note_37158"/>
+                 <turn accidupper="s" xml:id="tf4l9n4" staff="1" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m156_k515_001" n="156" xml:id="m156_k515_001">
                 <staff n="1" xml:id="staff_37296">
@@ -8425,7 +8424,7 @@
                 </staff>
                 <slur curvedir="above" endid="#note_37782" staff="1" startid="#note_37776" xml:id="slur_37878"/>
                 <tie endid="#note_37776" staff="1" startid="#note_37770" xml:id="tie_37884"/>
-                 <turn xml:id="tbc0bd51" staff="1" startid="#note_37776"/>
+                 <turn xml:id="tbc0bd51" staff="1" tstamp="3.5"/>
                </measure>
               <sb xml:id="sb_37890"/>
               <measure facs="#zoneOf_m160_k515_001" n="160" xml:id="m160_k515_001">
@@ -8581,7 +8580,7 @@
                 </staff>
                 <slur curvedir="above" endid="#note_38394" staff="1" startid="#note_38388" xml:id="slur_38490"/>
                 <tie endid="#note_38388" staff="1" startid="#note_38382" xml:id="tie_38496"/>
-                 <turn xml:id="td36jd6" staff="1" startid="#note_38388"/>
+                 <turn accidupper="n" xml:id="td36jd6" staff="1" tstamp="1.75" type="accidupper_supplied_NMA-editors"/>
                </measure>
               <measure facs="#zoneOf_m164_k515_001" n="164" xml:id="m164_k515_001">
                 <staff n="1" xml:id="staff_38508">
@@ -8740,7 +8739,7 @@
                 </staff>
                 <slur curvedir="above" endid="#note_38994" staff="1" startid="#note_38988" xml:id="slur_39090"/>
                 <tie endid="#note_38988" staff="1" startid="#note_38982" xml:id="tie_39096"/>
-                 <turn xml:id="tnsd2m11" staff="1" startid="#note_38988"/>
+                 <turn xml:id="tnsd2m11" staff="1" tstamp="3.5"/>
                </measure>
               <sb xml:id="sb_39102"/>
               <measure facs="#zoneOf_m168_k515_001" n="168" xml:id="m168_k515_001">
@@ -10188,8 +10187,8 @@
                     <rest doxml.id="d27e9919" dur="4" tstamp="4" xml:id="rest_45324"/>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_45078" xml:id="trill_45330"/>
-                <trill staff="2" startid="#note_45132" xml:id="trill_45336"/>
+                <trill accidupper="f" staff="1" startid="#note_45078" type="accidupper_supplied_NMA-editors" xml:id="trill_45330"/>
+                <trill accidupper="f" staff="2" startid="#note_45132" type="accidupper_supplied_NMA-editors" xml:id="trill_45336"/>
                 <slur curvedir="above" endid="#note_45384" staff="1" startid="#note_45078" xml:id="slur_45342"/>
                 <slur curvedir="above" endid="#note_45420" staff="2" startid="#note_45132" xml:id="slur_45348"/>
                 <slur curvedir="above" endid="#note_45216" staff="3" startid="#note_45168" xml:id="slur_45354"/>
@@ -10812,10 +10811,10 @@
                   </layer>
                 </staff>
                 <dynam doxml.id="d27e10446" staff="1" startid="#note_47946" xml:id="dynam_48054">p</dynam>
-                <dir doxml.id="d27e10448" place="above" staff="1" startid="#note_47946" xml:id="dir_48072">dolce</dir>
+                <dir doxml.id="d27e10448" place="below" staff="1" startid="#note_47946" xml:id="dir_48072">dolce</dir>
                 <slur curvedir="above" endid="#note_47958" staff="1" startid="#note_47952" xml:id="slur_48084"/>
                 <tie endid="#note_47952" staff="1" startid="#note_47946" xml:id="tie_48090"/>
-                 <turn xml:id="tba1bg21" staff="1" startid="#note_47952"/>
+                 <turn accidupper="s" xml:id="tba1bg21" staff="1" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m209_k515_001" n="209" xml:id="m209_k515_001">
                 <staff n="1" xml:id="staff_48102">
@@ -11003,7 +11002,7 @@
                 </staff>
                 <slur curvedir="above" endid="#note_48708" staff="1" startid="#note_48702" xml:id="slur_48804"/>
                 <tie endid="#note_48702" staff="1" startid="#note_48696" xml:id="tie_48810"/>
-                 <turn xml:id="txuwuw51" staff="1" startid="#note_48702"/>
+                 <turn accidupper="s" xml:id="txuwuw51" staff="1" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m214_k515_001" n="214" xml:id="m214_k515_001">
                 <staff n="1" xml:id="staff_48822">
@@ -11243,7 +11242,7 @@
                 <slur curvedir="above" endid="#note_49578" staff="1" startid="#note_49572" xml:id="slur_49698"/>
                 <slur curvedir="above" endid="#note_49686" staff="5" startid="#note_49680" xml:id="slur_49704"/>
                 <tie endid="#note_49572" staff="1" startid="#note_49566" xml:id="tie_49710"/>
-                 <turn xml:id="tcx1d3f" staff="1" startid="#note_49572"/>
+                 <turn accidupper="s" xml:id="tcx1d3f" staff="1" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m220_k515_001" n="220" xml:id="m220_k515_001">
                 <staff n="1" xml:id="staff_49728">
@@ -11330,7 +11329,7 @@
                 <slur curvedir="above" endid="#note_49920" staff="1" startid="#note_49914" xml:id="slur_50040"/>
                 <slur curvedir="above" endid="#note_50028" staff="5" startid="#note_50022" xml:id="slur_50046"/>
                 <tie endid="#note_49914" staff="1" startid="#note_49908" xml:id="tie_50052"/>
-                 <turn xml:id="tzx9lme1" staff="1" startid="#note_49914"/>
+                 <turn accidupper="s" xml:id="tzx9lme1" staff="1" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m222_k515_001" n="222" xml:id="m222_k515_001">
                 <staff n="1" xml:id="staff_50064">
@@ -12346,7 +12345,7 @@
                 <slur curvedir="above" endid="#note_54342" staff="2" startid="#note_54312" xml:id="slur_54534"/>
                 <slur curvedir="above" endid="#note_54414" staff="3" startid="#note_54372" xml:id="slur_54540"/>
                 <slur curvedir="above" endid="#note_54486" staff="4" startid="#note_54444" xml:id="slur_54546"/>
-                 <turn xml:id="tcdcdie" staff="1" startid="#note_54264"/>
+                 <turn xml:id="tcdcdie" staff="1" tstamp="1.5"/>
                </measure>
               <measure facs="#zoneOf_m242_k515_001" n="242" xml:id="m242_k515_001">
                 <staff n="1" xml:id="staff_54558">
@@ -13211,7 +13210,7 @@
                 <dynam doxml.id="d27e13063" staff="5" startid="#note_58668" xml:id="dynam_58686">p</dynam>
                 <slur curvedir="below" endid="#note_58680" staff="5" startid="#note_58674" xml:id="slur_58698"/>
                 <tie endid="#note_58674" staff="5" startid="#note_58668" xml:id="tie_58704"/>
-                 <turn xml:id="t936pdx1" staff="5" startid="#note_58674"/>
+                 <turn accidupper="s" xml:id="t936pdx1" staff="5" tstamp="3.5"/>
                </measure>
               <measure facs="#zoneOf_m259_k515_001" n="259" xml:id="m259_k515_001">
                 <staff n="1" xml:id="staff_58722">
