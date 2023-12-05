@@ -169,11 +169,9 @@
               <staffDef clef.line="2" clef.shape="G" decls="#instrVoice_1" doxml.id="d27e39" lines="5" n="1" xml:id="staffDef_P1">
                 <label xml:id="label_P1">Violino I</label>
               </staffDef>
-              <supplied xml:id="sl8p6eb" resp="#NMA-editors">
 <staffDef clef.line="2" clef.shape="G" decls="#instrVoice_2" doxml.id="d27e154" lines="5" n="2" xml:id="staffDef_P2">
                 <label xml:id="label_P2">Violino II</label>
               </staffDef>
-</supplied>
               <staffDef clef.line="3" clef.shape="C" decls="#instrVoice_3" doxml.id="d27e255" lines="5" n="3" xml:id="staffDef_P3">
                 <label xml:id="label_P3">Viola I</label>
               </staffDef>
