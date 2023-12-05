@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="ekjtzlh">
          <appInfo xml:id="ax476cx2">
-            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T14:08:47">
+            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T14:42:44">
                <name xml:id="ns3o4ht1">mei-friend</name>
                <p xml:id="ps0u20a">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -4713,11 +4713,15 @@
               <dynam doxml.id="d27e4767" staff="1" startid="#note_22950" xml:id="dynam_23124">sf</dynam>
               <dynam doxml.id="d27e4771" staff="1" startid="#note_22956" xml:id="dynam_23136">p</dynam>
               <dynam doxml.id="d27e4852" staff="2" startid="#note_22998" xml:id="dynam_23148">sf</dynam>
-              <dynam doxml.id="d27e4855" staff="2" tstamp="4" place="between" xml:id="dynam_23160">p</dynam>
+               <supplied xml:id="supplied_23160" resp="#NMA-editors">
+                  <dynam doxml.id="d27e4855" staff="2" tstamp="4" place="between" xml:id="dynam_23160">p</dynam>
+               </supplied>
               <dynam doxml.id="d27e4942" staff="3" startid="#note_23040" xml:id="dynam_23172">sf</dynam>
               <dynam doxml.id="d27e4947" staff="3" startid="#note_23052" xml:id="dynam_23184">p</dynam>
               <dynam doxml.id="d27e5080" staff="5" startid="#note_23118" xml:id="dynam_23202">sf</dynam>
-              <dynam doxml.id="d27e5082" staff="5" tstamp="4" place="between" xml:id="dynam_23214">p</dynam>
+               <supplied xml:id="supplied_23214" resp="#NMA-editors">
+                  <dynam doxml.id="d27e5082" staff="5" tstamp="4" place="between" xml:id="dynam_23214">p</dynam>
+               </supplied>
               <slur curvedir="above" endid="#note_22938" staff="1" startid="#note_22932" xml:id="slur_23226"/>
               <slur curvedir="above" endid="#note_23298" staff="1" startid="#note_22950" xml:id="slur_23232"/>
             </measure>
@@ -4884,7 +4888,9 @@
               <dynam doxml.id="d27e5308" staff="3" startid="#note_23784" xml:id="dynam_23982">sf</dynam>
               <dynam doxml.id="d27e5312" staff="3" startid="#note_23796" xml:id="dynam_23994">p</dynam>
               <dynam doxml.id="d27e5496" staff="5" startid="#note_23916" xml:id="dynam_24012">sf</dynam>
-              <dynam doxml.id="d27e5499" staff="5" startid="#note_23916" xml:id="dynam_24024">p</dynam>
+               <supplied xml:id="supplied_24024" resp="#NMA-editors">
+                  <dynam doxml.id="d27e5499" staff="5" tstamp="2.1" place="between" xml:id="dynam_24024">p</dynam>
+               </supplied>
               <slur curvedir="above" endid="#note_24060" staff="1" startid="#note_23610" xml:id="slur_24036"/>
             </measure>
             <measure facs="#zoneOf_m58_k516_003" n="58" xml:id="m58_k516_003">
@@ -4974,7 +4980,9 @@
               <dynam doxml.id="d27e5444" staff="4" startid="#note_24294" xml:id="dynam_24468">sf</dynam>
               <dynam doxml.id="d27e5448" staff="4" startid="#note_24306" xml:id="dynam_24480">p</dynam>
               <dynam doxml.id="d27e5509" staff="5" startid="#note_24360" xml:id="dynam_24492">sf</dynam>
-              <dynam doxml.id="d27e5511" staff="5" startid="#note_24360" xml:id="dynam_24504">p</dynam>
+               <supplied xml:id="supplied_24504" resp="#NMA-editors">
+                  <dynam doxml.id="d27e5511" staff="5" tstamp="4.2" place="between" xml:id="dynam_24504">p</dynam>
+               </supplied>
               <slur curvedir="above" endid="#note_24582" staff="1" startid="#note_24072" xml:id="slur_24516"/>
               <slur curvedir="below" endid="#note_24246" staff="4" startid="#note_24234" xml:id="slur_24522"/>
               <slur curvedir="below" endid="#note_24276" staff="4" startid="#note_24264" xml:id="slur_24528"/>
