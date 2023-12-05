@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="e1nvm7n2">
          <appInfo xml:id="afvbwuq1">
-            <application xml:id="aj087t9" startdate="2023-11-28T14:30:54" version="1.0.3p" enddate="2023-12-04T18:08:21">
+            <application xml:id="aj087t9" startdate="2023-11-28T14:30:54" version="1.0.3p" enddate="2023-12-05T14:04:23">
                <name xml:id="nzmqab7">mei-friend</name>
                <p xml:id="p7dyg07">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -4351,9 +4351,9 @@
                     <note doxml.id="d27e4443" dur="8" oct="2" pname="f" tstamp="4.5" xml:id="note_19506"/>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_19326" xml:id="trill_19512"/>
-                <trill staff="2" startid="#note_19362" xml:id="trill_19518"/>
-                <trill staff="3" startid="#note_19398" xml:id="trill_19524"/>
+                <trill staff="1" extender="true" endid="#note_19338" startid="#note_19326" xml:id="trill_19512"/>
+                <trill staff="2" extender="true" endid="#note_19374" startid="#note_19362" xml:id="trill_19518"/>
+                <trill staff="3" extender="true" endid="#note_19410" startid="#note_19398" xml:id="trill_19524"/>
                 <slur curvedir="below" endid="#note_19344" staff="1" startid="#note_19338" xml:id="slur_19530"/>
                 <slur curvedir="below" endid="#note_19380" staff="2" startid="#note_19374" xml:id="slur_19536"/>
                 <slur curvedir="below" endid="#note_19416" staff="3" startid="#note_19410" xml:id="slur_19542"/>
@@ -5850,9 +5850,9 @@
                     </beam>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_26388" xml:id="trill_26634"/>
-                <trill staff="2" startid="#note_26424" xml:id="trill_26640"/>
-                <trill staff="3" startid="#note_26460" xml:id="trill_26646"/>
+                <trill staff="1" extender="true" endid="#note_26400" startid="#note_26388" xml:id="trill_26634"/>
+                <trill staff="2" extender="true" endid="#note_26436" startid="#note_26424" xml:id="trill_26640"/>
+                <trill staff="3" estender="true" endid="#note_26472" startid="#note_26460" xml:id="trill_26646"/>
                 <dir doxml.id="d27e5925" place="above" staff="5" startid="#note_26532" xml:id="dir_26658">3</dir>
                 <slur curvedir="below" endid="#note_26406" staff="1" startid="#note_26400" xml:id="slur_26670"/>
                 <slur curvedir="below" endid="#note_26442" staff="2" startid="#note_26436" xml:id="slur_26676"/>
@@ -8310,7 +8310,11 @@
                       <note accid="n" artic="stacc" doxml.id="d27e8305" dur="8" oct="4" pname="a" tstamp="1" xml:id="note_37680"/>
                       <note artic="stacc" doxml.id="d27e8307" dur="8" oct="4" pname="g" tstamp="1.5" xml:id="note_37686"/>
                     </beam>
-                    <note accid="s" artic="stacc" doxml.id="d27e8309" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_37692"/>
+                     <note accid="s" doxml.id="d27e8309" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_37692">
+                        <supplied xml:id="supplied_37692" resp="#NMA-editors">
+                           <artic xml:id="artic_37692" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8311" dur="8" tstamp="3" xml:id="rest_37698"/>
                     <beam xml:id="beam_37704">
                       <note accid="n" artic="stacc" doxml.id="d27e8315" dur="8" oct="4" pname="e" tstamp="3.5" xml:id="note_37710"/>
@@ -8325,7 +8329,11 @@
                       <note artic="stacc" doxml.id="d27e8390" dur="8" oct="4" pname="d" tstamp="1" xml:id="note_37746"/>
                       <note accid.ges="f" artic="stacc" doxml.id="d27e8392" dur="8" oct="3" pname="b" tstamp="1.5" xml:id="note_37752"/>
                     </beam>
-                    <note artic="stacc" doxml.id="d27e8394" dur="4" oct="3" pname="a" tstamp="2" xml:id="note_37758"/>
+                     <note doxml.id="d27e8394" dur="4" oct="3" pname="a" tstamp="2" xml:id="note_37758">
+                        <supplied xml:id="supplied_37758" resp="#NMA-editors">
+                           <artic xml:id="artic_37758" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8397" dur="8" tstamp="3" xml:id="rest_37764"/>
                     <beam xml:id="beam_37770">
                       <note accid="s" artic="stacc" doxml.id="d27e8401" dur="8" oct="4" pname="c" tstamp="3.5" xml:id="note_37776"/>
@@ -8358,7 +8366,11 @@
                       <note accid="s" artic="stacc" doxml.id="d27e8507" dur="8" oct="5" pname="f" tstamp="1" xml:id="note_37920"/>
                       <note accid="n" artic="stacc" doxml.id="d27e8509" dur="8" oct="5" pname="e" tstamp="1.5" xml:id="note_37926"/>
                     </beam>
-                    <note artic="stacc" doxml.id="d27e8512" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_37932"/>
+                     <note doxml.id="d27e8512" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_37932">
+                        <supplied xml:id="supplied_37932" resp="#NMA-editors">
+                           <artic xml:id="artic_37932" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8514" dur="8" tstamp="3" xml:id="rest_37938"/>
                     <beam xml:id="beam_37944">
                       <note accid.ges="f" artic="stacc" doxml.id="d27e8516" dur="8" oct="5" pname="b" tstamp="3.5" xml:id="note_37950"/>
@@ -8373,7 +8385,11 @@
                       <note artic="stacc" doxml.id="d27e8608" dur="8" oct="5" pname="d" tstamp="1" xml:id="note_37986"/>
                       <note accid="s" artic="stacc" doxml.id="d27e8610" dur="8" oct="5" pname="c" tstamp="1.5" xml:id="note_37992"/>
                     </beam>
-                    <note artic="stacc" doxml.id="d27e8612" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_37998"/>
+                     <note doxml.id="d27e8612" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_37998">
+                        <supplied xml:id="supplied_37998" resp="#NMA-editors">
+                           <artic xml:id="artic_37998" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8614" dur="8" tstamp="3" xml:id="rest_38004"/>
                     <beam xml:id="beam_38010">
                       <note artic="stacc" doxml.id="d27e8616" dur="8" oct="5" pname="g" tstamp="3.5" xml:id="note_38016"/>
@@ -8403,7 +8419,11 @@
                       <note accid="s" artic="stacc" doxml.id="d27e8808" dur="8" oct="4" pname="f" tstamp="1" xml:id="note_38118"/>
                       <note artic="stacc" doxml.id="d27e8811" dur="8" oct="4" pname="g" tstamp="1.5" xml:id="note_38124"/>
                     </beam>
-                    <note accid.ges="s" artic="stacc" doxml.id="d27e8813" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_38130"/>
+                     <note accid.ges="s" doxml.id="d27e8813" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_38130">
+                        <supplied xml:id="supplied_38130" resp="#NMA-editors">
+                           <artic xml:id="artic_38130" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8815" dur="8" tstamp="3" xml:id="rest_38136"/>
                     <beam xml:id="beam_38142">
                       <note accid="s" artic="stacc" doxml.id="d27e8817" dur="8" oct="4" pname="c" tstamp="3.5" xml:id="note_38148"/>
@@ -8448,7 +8468,11 @@
                       <note artic="stacc" doxml.id="d27e8624" dur="8" oct="5" pname="d" tstamp="1" xml:id="note_38310"/>
                       <note accid="s" artic="stacc" doxml.id="d27e8627" dur="8" oct="5" pname="c" tstamp="1.5" xml:id="note_38316"/>
                     </beam>
-                    <note artic="stacc" doxml.id="d27e8629" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_38322"/>
+                     <note doxml.id="d27e8629" dur="4" oct="5" pname="d" tstamp="2" xml:id="note_38322">
+                        <supplied xml:id="supplied_38322" resp="#NMA-editors">
+                           <artic xml:id="artic_38322" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8631" dur="8" tstamp="3" xml:id="rest_38328"/>
                     <beam xml:id="beam_38334">
                       <note accid="n" artic="stacc" doxml.id="d27e8633" dur="8" oct="5" pname="f" tstamp="3.5" xml:id="note_38340"/>
@@ -8463,7 +8487,11 @@
                       <note artic="stacc" doxml.id="d27e8725" dur="8" oct="4" pname="a" tstamp="1" xml:id="note_38376"/>
                       <note accid.ges="f" artic="stacc" doxml.id="d27e8727" dur="8" oct="4" pname="b" tstamp="1.5" xml:id="note_38382"/>
                     </beam>
-                    <note artic="stacc" doxml.id="d27e8729" dur="4" oct="4" pname="a" tstamp="2" xml:id="note_38388"/>
+                     <note doxml.id="d27e8729" dur="4" oct="4" pname="a" tstamp="2" xml:id="note_38388">
+                        <supplied xml:id="supplied_38388" resp="#NMA-editors">
+                           <artic xml:id="artic_38388" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8731" dur="8" tstamp="3" xml:id="rest_38394"/>
                     <beam xml:id="beam_38400">
                       <note artic="stacc" doxml.id="d27e8733" dur="8" oct="4" pname="d" tstamp="3.5" xml:id="note_38406"/>
@@ -8478,7 +8506,11 @@
                       <note accid="s" artic="stacc" doxml.id="d27e8825" dur="8" oct="4" pname="f" tstamp="1" xml:id="note_38442"/>
                       <note artic="stacc" doxml.id="d27e8827" dur="8" oct="4" pname="g" tstamp="1.5" xml:id="note_38448"/>
                     </beam>
-                    <note accid.ges="s" artic="stacc" doxml.id="d27e8829" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_38454"/>
+                     <note accid.ges="s" doxml.id="d27e8829" dur="4" oct="4" pname="f" tstamp="2" xml:id="note_38454">
+                        <supplied xml:id="supplied_38454" resp="#NMA-editors">
+                           <artic xml:id="artic_38454" artic="stacc"/>
+                        </supplied>
+                     </note>
                     <rest doxml.id="d27e8831" dur="8" tstamp="3" xml:id="rest_38460"/>
                     <beam xml:id="beam_38466">
                       <note accid="n" artic="stacc" doxml.id="d27e8834" dur="8" oct="3" pname="b" tstamp="3.5" xml:id="note_38472"/>
@@ -14821,9 +14853,9 @@
                     </beam>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_66162" xml:id="trill_66426"/>
-                <trill staff="2" startid="#note_66198" xml:id="trill_66432"/>
-                <trill staff="3" startid="#note_66234" xml:id="trill_66438"/>
+                <trill staff="1" extender="true" endid="#note_66174" startid="#note_66162" xml:id="trill_66426"/>
+                <trill staff="2" extender="true" endid="#note_66210" startid="#note_66198" xml:id="trill_66432"/>
+                <trill staff="3" extender="true" endid="#note_66246" startid="#note_66234" xml:id="trill_66438"/>
                 <dir doxml.id="d27e15386" place="above" staff="5" startid="#note_66324" xml:id="dir_66450">3</dir>
                 <slur curvedir="below" endid="#note_66180" staff="1" startid="#note_66174" xml:id="slur_66462"/>
                 <slur curvedir="below" endid="#note_66216" staff="2" startid="#note_66210" xml:id="slur_66468"/>
