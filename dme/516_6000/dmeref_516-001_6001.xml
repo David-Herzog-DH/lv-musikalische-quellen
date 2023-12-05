@@ -5852,7 +5852,7 @@
                 </staff>
                 <trill staff="1" extender="true" endid="#note_26400" startid="#note_26388" xml:id="trill_26634"/>
                 <trill staff="2" extender="true" endid="#note_26436" startid="#note_26424" xml:id="trill_26640"/>
-                <trill staff="3" estender="true" endid="#note_26472" startid="#note_26460" xml:id="trill_26646"/>
+                <trill staff="3" extender="true" endid="#note_26472" startid="#note_26460" xml:id="trill_26646"/>
                 <dir doxml.id="d27e5925" place="above" staff="5" startid="#note_26532" xml:id="dir_26658">3</dir>
                 <slur curvedir="below" endid="#note_26406" staff="1" startid="#note_26400" xml:id="slur_26670"/>
                 <slur curvedir="below" endid="#note_26442" staff="2" startid="#note_26436" xml:id="slur_26676"/>
