@@ -57,7 +57,7 @@
       </workList>
       <encodingDesc xml:id="ekjtzlh">
          <appInfo xml:id="ax476cx2">
-            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T13:56:46">
+            <application xml:id="achd7di1" startdate="2023-11-28T14:32:09" version="1.0.3p" enddate="2023-12-05T14:08:47">
                <name xml:id="ns3o4ht1">mei-friend</name>
                <p xml:id="ps0u20a">First edit by mei-friend 1.0.3p, 1 November 2023.</p>
             </application>
@@ -1543,7 +1543,7 @@
                     <note accid="f" doxml.id="d27e1515" dur="8" oct="4" pname="g" tstamp="2" xml:id="note_7500"/>
                     <note doxml.id="d27e1517" dur="8" oct="4" pname="f" tstamp="2.5" xml:id="note_7506"/>
                   </beam>
-                  <note accid="f" doxml.id="d27e1520" dur="4" oct="4" pname="e" tstamp="3" xml:id="note_7512"/>
+                      <note accid.ges="f" doxml.id="d27e1520" dur="4" oct="4" pname="e" tstamp="3" xml:id="note_7512"/>
                   <rest doxml.id="d27e1522" dur="4" tstamp="4" xml:id="rest_7518"/>
                 </layer>
               </staff>
@@ -4116,7 +4116,7 @@
               <slur curvedir="below" endid="#note_20094" staff="3" startid="#note_20046" xml:id="slur_20256"/>
               <slur curvedir="below" endid="#note_20160" staff="4" startid="#note_20142" xml:id="slur_20262"/>
                <supplied xml:id="skwpxes1" resp="#NMA-editors">
-                  <turn xml:id="t0x9cpx2" staff="1" tstamp="1.75"/>
+                  <turn xml:id="t0x9cpx2" staff="1" startid="#note_19920"/>
                </supplied>
              </measure>
             <measure facs="#zoneOf_m47_k516_003" n="47" xml:id="m47_k516_003">
