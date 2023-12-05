@@ -13346,9 +13346,9 @@
                     <note doxml.id="d27e13574" dur="8" oct="2" pname="d" tstamp="4.5" xml:id="note_59298"/>
                   </layer>
                 </staff>
-                <trill staff="1" startid="#note_59118" xml:id="trill_59304"/>
-                <trill staff="2" startid="#note_59154" xml:id="trill_59310"/>
-                <trill staff="3" startid="#note_59190" xml:id="trill_59316"/>
+                <trill staff="1" extender="true" endid="#note_59130" startid="#note_59118" xml:id="trill_59304"/>
+                <trill staff="2" extender="true" endid="#note_59166" startid="#note_59154" xml:id="trill_59310"/>
+                <trill staff="3" extender="true" endid="#note_59202" startid="#note_59190" xml:id="trill_59316"/>
                 <slur curvedir="below" endid="#note_59136" staff="1" startid="#note_59130" xml:id="slur_59322"/>
                 <slur curvedir="below" endid="#note_59172" staff="2" startid="#note_59166" xml:id="slur_59328"/>
                 <slur curvedir="below" endid="#note_59208" staff="3" startid="#note_59202" xml:id="slur_59334"/>
