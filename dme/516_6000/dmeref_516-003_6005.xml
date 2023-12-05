@@ -164,7 +164,7 @@
     <body>
       <mdiv n="3" xml:id="mdiv_516003">
         <score xml:id="score_516003">
-          <scoreDef key.accid="f" key.mode="major" key.pname="e" key.sig="3f" meter.count="4" meter.unit="4" optimize="false" xml:id="scoreDef_01">
+          <scoreDef key.accid="f" key.mode="major" key.pname="e" key.sig="3f" meter.count="4" meter.sym="common" meter.unit="4" optimize="false" xml:id="scoreDef_01">
             <staffGrp bar.thru="true" symbol="bracket" xml:id="staffGrp_01">
               <staffDef clef.line="2" clef.shape="G" decls="#instrVoice_1" doxml.id="d27e39" lines="5" n="1" xml:id="staffDef_P1">
                 <label xml:id="label_P1">Violino I</label>
