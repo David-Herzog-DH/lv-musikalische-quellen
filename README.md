@@ -4,7 +4,7 @@ Diese Lehrveranstaltung wird von Frau Prof. [Andrea Lindmayr-Brandl](https://www
 
 >>FÜGEN SIE HIER DEN UNI-LINK ZU DIESER VERANSTALTUNG EIN
 
-Die Wissenschaftsabteilung der [Internationale Stiftung Mozarteum](https://www.dme.mozarteum.at) unterstützt diese Lehrveranstaltung.
+Die [Wissenschaftsabteilung](https://www.dme.mozarteum.at) der [Internationalen Stiftung Mozarteum](https://www.mozarteum.at) unterstützt diese Lehrveranstaltung.
 Dieses Repository enthält die für die Übungen nötigen Dateien.
 Sie werden lernen, diese zu verwenden, zu versionieren und zu ändern.
 
