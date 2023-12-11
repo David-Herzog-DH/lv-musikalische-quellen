@@ -13,5 +13,5 @@ Kontakt: oleksii.sapov-erlinger@mozarteum.at
 - XPath
 
 ## Anmerkungen:
-- Bitte für die Übung das [oXygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html?os=Windows) (30-Tage freie Lizenz) installieren.
+- Bitte für die Übung den [oXygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html?os=Windows) (30-Tage freie Lizenz) installieren.
 - Beispielprojekt: [DIME-Tools](https://github.com/ism-dme/DIME-tools).
