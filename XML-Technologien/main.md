@@ -15,3 +15,8 @@ Kontakt: oleksii.sapov-erlinger@mozarteum.at
 ## Anmerkungen:
 - Bitte für die Übung den [oXygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html?os=Windows) (30-Tage freie Lizenz) installieren.
 - Beispielprojekt: [DIME-Tools](https://github.com/ism-dme/DIME-tools).
+- [w3schools-XPath tutorial](https://www.w3schools.com/xml/xpath_intro.asp) 
+<br>
+Kostenlose online Tools:
+- http://xsltransform.net
+- http://exist-db.org/exist/apps/eXide/index.html
