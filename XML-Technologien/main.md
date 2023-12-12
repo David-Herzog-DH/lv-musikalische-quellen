@@ -1,4 +1,4 @@
-# XML-Technologien
+# Daten-Engineering mit XML-Technologien
 VO + UE 12. + 19. Dezember 2023<br>
 Kontakt: oleksii.sapov-erlinger@mozarteum.at
 
