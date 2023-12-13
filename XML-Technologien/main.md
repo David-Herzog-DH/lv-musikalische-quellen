@@ -1,16 +1,17 @@
 # Daten-Engineering mit XML-Technologien
 VO + UE 12. + 19. Dezember 2023<br>
-Kontakt: oleksii.sapov-erlinger@mozarteum.at
+Kontakt: [oleksii.sapov-erlinger@mozarteum.at](mailto:oleksii.sapov-erlinger@mozarteum.at)
 
-## Vorlesung:
+## Einheit 1
+1. Einführung.
+2. Validierung.
+3. Transformationen.
 
-1. Einführung
-2. Validierung
-3. Transformationen
-4. Abfragesprache XPath
 
-## Übung:
-- XPath
+## Einheit 2
+1. Klärung der Validierungsfehler.
+2. Einführung in die Abfragesprache XPath.
+
 
 ## Anmerkungen:
 - Bitte für die Übung den [oXygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html?os=Windows) (30-Tage freie Lizenz) installieren.
