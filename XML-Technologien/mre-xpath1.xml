@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <staff n="2" xml:id="staff_978">
   <layer n="1" xml:id="layer_984">
-    <note accid.ges="f" doxml.id="d27e160" dur="2" oct="3" pname="b" tstamp="1" xml:id="note_990"/>
-    <note doxml.id="d27e163" dur="4" oct="4" pname="d" tstamp="3" xml:id="note_996"/>
-    <beam xml:id="beam_1002">
-      <note accid.ges="f" doxml.id="d27e165" dur="8" oct="4" pname="e" tstamp="4" xml:id="note_1008"/>
-      <note doxml.id="d27e167" dur="8" oct="4" pname="d" tstamp="4.5" xml:id="note_1014"/>
+    <note accid.ges="f" dur="2" oct="3" pname="b" tstamp="1" xml:id="note_990"/>
+    <note dur="4" oct="4" pname="d" tstamp="3" xml:id="note_996"/>
+    <beam >
+      <note accid.ges="f" dur="8" oct="4" pname="e" tstamp="4" xml:id="note_1008"/>
+      <note dur="8" oct="4" pname="d" tstamp="4.5" xml:id="note_1014"/>
     </beam>
   </layer>
 </staff>
-
