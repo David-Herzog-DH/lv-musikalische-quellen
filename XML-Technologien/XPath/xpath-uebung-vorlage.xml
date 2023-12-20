@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xpath-uebung>
+  <!--Bitte die Datei mit dem Namen xpath-uebung-<matrikelnummer>.xml umbenennen. Bsp. 'xpath-uebung-00000000.xml'.-->
+  <head>
+    <autor>
+      <!--Ihr Name-->
+      <name>W. A. Mozart</name>
+      <!--Ihr Matrikelnummer-->
+      <matrikelnummer>00000000</matrikelnummer>
+    </autor>
+  </head>
+  <!--Bitte fügen Sie die XPath-Ausdrücke als Inhalt des jeweiligen Elements <aufgabe> ein.
+  + Das Attribut @n entspricht der Nummer der jeweiligen Aufgaben im 'Einführung-XPath.pdf'
+  + Sie erhalten dann die Datei zurück, in der im Attribut @korrekt 'ja' oder 'nein' stehen wird.
+  -->
+  <aufgaben>
+    <aufgabe korrekt="NaN" n="1">//note</aufgabe>
+    <aufgabe korrekt="NaN" n="2a"/>
+    <aufgabe korrekt="NaN" n="2b"/>
+    <aufgabe korrekt="NaN" n="3"/>
+    <aufgabe korrekt="NaN" n="4"/>
+    <aufgabe korrekt="NaN" n="5"/>
+  </aufgaben>
+  <punkte>0</punkte>
+</xpath-uebung>
