@@ -12,6 +12,7 @@
   <!--Bitte fügen Sie die XPath-Ausdrücke als Inhalt des jeweiligen Elements <aufgabe> ein.
   + Das Attribut @n entspricht der Nummer der jeweiligen Aufgaben im 'Einführung-XPath.pdf'
   + Sie erhalten dann die Datei zurück, in der im Attribut @korrekt 'ja' oder 'nein' stehen wird.
+  + Punkte 2a und 2b zählen jeweils als 0.5 Punkte.
   -->
   <aufgaben>
     <aufgabe korrekt="NaN" n="1">//note</aufgabe>
