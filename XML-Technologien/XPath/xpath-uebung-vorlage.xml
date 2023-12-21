@@ -4,9 +4,9 @@
   <head>
     <autor>
       <!--Ihr Name-->
-      <name>W. A. Mozart</name>
+      <name>Miranda Lipovica</name>
       <!--Ihr Matrikelnummer-->
-      <matrikelnummer>00000000</matrikelnummer>
+      <matrikelnummer>11723838</matrikelnummer>
     </autor>
   </head>
   <!--Bitte fügen Sie die XPath-Ausdrücke als Inhalt des jeweiligen Elements <aufgabe> ein.
@@ -15,12 +15,12 @@
   + Punkte 2a und 2b zählen jeweils als 0.5 Punkte.
   -->
   <aufgaben>
-    <aufgabe korrekt="NaN" n="1">//note</aufgabe>
-    <aufgabe korrekt="NaN" n="2a"/>
-    <aufgabe korrekt="NaN" n="2b"/>
-    <aufgabe korrekt="NaN" n="3"/>
-    <aufgabe korrekt="NaN" n="4"/>
-    <aufgabe korrekt="NaN" n="5"/>
+    <aufgabe korrekt="NaN" n="1">//beam/note</aufgabe>
+    <aufgabe korrekt="NaN" n="2a">//*[@tsamp]</aufgabe>
+    <aufgabe korrekt="NaN" n="2b">//note[@accid.ges='f']</aufgabe>
+    <aufgabe korrekt="NaN" n="3">//*[@oct='3' or @oct='4']</aufgabe>
+    <aufgabe korrekt="NaN" n="4">//note[@dur='8']</aufgabe>
+    <aufgabe korrekt="NaN" n="5">distinct-values(//*[not(@tstamp)]/name())</aufgabe>
   </aufgaben>
   <punkte>0</punkte>
 </xpath-uebung>
