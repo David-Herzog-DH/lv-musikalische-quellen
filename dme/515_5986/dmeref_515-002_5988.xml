@@ -4076,8 +4076,11 @@
             <measure facs="#zoneOf_m56_k515_002" n="56" xml:id="m56_k515_002">
               <staff n="1" xml:id="staff_19164">
                 <layer n="1" xml:id="layer_19170">
-                  <note doxml.id="d27e4104" dur="8" oct="5" pname="c" tstamp="1" xml:id="note_19176"/>
-                  <rest doxml.id="d27e4106" dur="8" tstamp="2" xml:id="rest_19182"/>
+
+             <note doxml.id="d27e4104" dur="8" oct="5" pname="c" tstamp="1" xml:id="note_19176"/>
+                  <note doxml.id="d27e4562" dur="8" oct="5" pname="d" tstamp="2.5" xml:id="note_21666"/>
+
+                   <rest doxml.id="d27e4106" dur="8" tstamp="2" xml:id="rest_19182"/>
                   <beam xml:id="beam_19188">
                     <note doxml.id="d27e4110" dur="8" oct="4" pname="g" tstamp="2.5" xml:id="note_19194"/>
                     <note doxml.id="d27e4112" dur="8" oct="5" pname="c" tstamp="3" xml:id="note_19200"/>
